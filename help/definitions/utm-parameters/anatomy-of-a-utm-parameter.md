@@ -1,12 +1,12 @@
 ---
-title: How Bizible Tagging Works
-description: A tutorial on how Bizible tagging works and along with if you use an integrated tagging platform.
-kt: 11233
-thumbnail: 347200.jpeg
+title: Anatomy of a UTM Parameter
+description: An overview of what is a UTM along with how they are setup (Should be between 60 and 160 characters, but is 58 characters)
+kt: 11232
+thumbnail: 347199.jpeg
 ---
 
-# How Bizible Tagging Works
+# Anatomy of a UTM Parameter
 
-A tutorial on how Bizible tagging works and along with if you use an integrated tagging platform.
+An overview of what is a UTM along with how they are setup
 
->[!VIDEO](https://video.tv.adobe.com/v/347200/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347199/?quality=12&learn=on)
