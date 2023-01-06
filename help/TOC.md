@@ -7,9 +7,6 @@ user-guide-description: This is a description for the user guide that will be di
 # Marketo Measure Tutorials {#tutorials}
 
 + [Marketo Measure Tutorials](overview.md)
-<!--- + Installing {#installing}
-  + Production{#production}
-  + Sandboxes{#sandboxes} --->
 + Onboarding{#onboarding}
   + Marketing Role{#marketing-role}
     + [Why Marketo Measure for CMOs and VPs](onboarding/marketing-role/cmo-and-vp-why.md)
@@ -24,8 +21,8 @@ user-guide-description: This is a description for the user guide that will be di
     + [Using Marketo Measure as an Email Marketer](onboarding/marketing-role/email-marketing-using.md)
   + Marketo Measure 101{#marketo-measure-101}
     + [What is Attribution](onboarding/marketo-measure-101/what-is-attribution.md)
-    + [What is Marketo Measure](onboarding/marketo-measure-101/what-is-Marketo Measure.md)
-    + [Marketo Measure Data](onboarding/marketo-measure-101/Marketo Measure-data.md)
+    + [What is Marketo Measure](onboarding/marketo-measure-101/what-is-marketo-measure.md)
+    + [Marketo Measure Data](onboarding/marketo-measure-101/marketo-measure-data.md)
     + [Touchpoints](onboarding/marketo-measure-101/touchpoints.md)
     + [Attribution Models](onboarding/marketo-measure-101/attribution-models.md)
   + Marketo Measure 102{#marketo-measure-102}
@@ -44,7 +41,7 @@ user-guide-description: This is a description for the user guide that will be di
   + Fundamentals{#fundamentals}
     + [Activities Attribution](onboarding/fundamentals/activities-attribution.md)
 + Marketo Measure Discover{#marketo-measure-discover}
-  + [Introduction to Marketo Measure Discover](marketo-measure-discover/introduction-to-Marketo Measure-discover.md)
+  + [Introduction to Marketo Measure Discover](marketo-measure-discover/introduction-to-marketo-measure-discover.md)
   + [Account Based Marketing Board](marketo-measure-discover/account-based-marketing-board.md)
 + Definitions{#definitions}
   + Touchpoints{#touchpoints}
@@ -68,10 +65,10 @@ user-guide-description: This is a description for the user guide that will be di
     + [Opportunity Object](definitions/crm-objects/opportunity-object.md)
     + [BT Object](definitions/crm-objects/bt-object.md)
     + [BAT Object](definitions/crm-objects/bat-object.md)
-    + [Marketo Measure Person](definitions/crm-objects/Marketo Measure-person.md)
+    + [Marketo Measure Person](definitions/crm-objects/marketo-measure-person.md)
   + UTM Parameters{#utm-parameters}
-    + [How Marketo Measure Tagging Works](definitions/utm-parameters/how-Marketo Measure-tagging-works.md)
-    + [Connecting Integrated Platforms with Marketo Measure](definitions/utm-parameters/connecting-integrated-platforms-with-Marketo Measure.md)
+    + [How Marketo Measure Tagging Works](definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+    + [Connecting Integrated Platforms with Marketo Measure](definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
     + [Anatomy of a UTM Parameter](definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
     + [UTM Best Practices](definitions/utm-parameters/utm-best-practices.md)
     + [UTM Parameter Auto Tagging Tools](definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
