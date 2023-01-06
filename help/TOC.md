@@ -15,14 +15,20 @@ user-guide-description: This is a description for the user guide that will be di
   + Marketo Measure 101{#marketo-measure-101}
   + Marketo Measure 102{#marketo-measure-102}
   + Marketo Measure and Salesforce{#marketo-measure-salesforce}
-  + Channel Management{#channel-management}
   + Fundamentals{#fundamentals}
     + [Activities Attribution](onboarding/fundamentals/activities-attribution.md)
 + Marketo Measure Discover{#marketo-measure-discover}
   + [Introduction to Marketo Measure Discover](marketo-measure-discover/introduction-to-bizible-discover.md)
+  + [Account Based Marketing Board](marketo-measure-discover/account-based-marketing-board.md)
 + Definitions{#definitions}
   + Touchpoints{#touchpoints}
+    + [What Is a Touchpoint?](definitions/touchpoints/what-is-a-touchpoint.md)
+    + [Milestone Touchpoints](definitions/touchpoints/milestone-touchpoints.md)
+    + [Touchpoint Components](definitions/touchpoints/touchpoint-components.md)
+    + [Online & Offline Touchpoints](definitions/touchpoints/online-offline-touchpoints.md)
   + Attribution{#attribution}
+    + [What is Attribution](definitions/attribution/what-is-attribution.md)
+    + [Attribution Models](definitions/attribution/attribution-models.md)
   + CRM Objects{#crm-objects}
   + UTM Parameters{#utm-parameters}
     + [How Bizible Tagging Works](definitions/utm-parameters/how-bizible-tagging-works.md)
