@@ -1,0 +1,14 @@
+---
+title: Online and Offline Touchpoints
+description: This video explains the difference between Online Touchpoints and Offline Touchpoints and how they are created.
+doc-type: Feature Video
+last-substantial-update: 2023-01-06
+kt: 11325
+thumbnail: 347212.jpeg
+---
+
+# Online and Offline Touchpoints
+
+This video explains the difference between Online Touchpoints and Offline Touchpoints and how they are created.
+
+>[!VIDEO](https://video.tv.adobe.com/v/347212/?quality=12&learn=on)

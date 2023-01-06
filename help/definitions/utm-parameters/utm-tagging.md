@@ -1,6 +1,6 @@
 ---
 title: UTM Tagging
-description: Tutorial on what is a UTM and how they work with Bizible / Marketo Measure
+description: Tutorial on what is a UTM and how they work with Marketo Measure / Marketo Measure
 kt: 11234
 thumbnail: 347204.jpeg
 ---
