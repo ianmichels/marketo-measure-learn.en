@@ -1,6 +1,6 @@
 ---
-title: Why Bizible for Events Marketing
-description: This lesson summarizes Bizible's key features and value for Events Marketing teams.
+title: Why Marketo Measure for Events Marketing
+description: This lesson summarizes Marketo Measure's key features and value for Events Marketing teams.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -9,8 +9,8 @@ kt: 11674
 thumbnail: 347178.jpeg
 ---
 
-# Why Bizible for Events Marketing
+# Why Marketo Measure for Events Marketing
 
-This lesson summarizes Bizible's key features and value for Events Marketing teams.
+This lesson summarizes Marketo Measure's key features and value for Events Marketing teams.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347178/?quality=12&learn=on)

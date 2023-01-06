@@ -1,6 +1,6 @@
 ---
 title: Contact Object
-description: This video breaks down the relationship between the contact object and the Bizible Touchpoint object and the Bizible Attribution Touchpoint object
+description: This video breaks down the relationship between the contact object and the Marketo Measure Touchpoint object and the Marketo Measure Attribution Touchpoint object
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,6 +11,6 @@ thumbnail: 347231.jpeg
 
 # Contact Object
 
-This video breaks down the relationship between the contact object and the Bizible Touchpoint object and the Bizible Attribution Touchpoint object
+This video breaks down the relationship between the contact object and the Marketo Measure Touchpoint object and the Marketo Measure Attribution Touchpoint object
 
 >[!VIDEO](https://video.tv.adobe.com/v/347231/?quality=12&learn=on)

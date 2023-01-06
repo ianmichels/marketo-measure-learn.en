@@ -1,6 +1,6 @@
 ---
 title: Syncing Offline Campaigns
-description: This lesson covers how to sync Salesforce CRM Campaigns with Bizible - individually or in bulk.
+description: This lesson covers how to sync Salesforce CRM Campaigns with Marketo Measure - individually or in bulk.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,6 +11,6 @@ thumbnail: 347250.jpeg
 
 # Syncing Offline Campaigns
 
-This lesson covers how to sync Salesforce CRM Campaigns with Bizible - individually or in bulk.
+This lesson covers how to sync Salesforce CRM Campaigns with Marketo Measure - individually or in bulk.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347250/?quality=12&learn=on)

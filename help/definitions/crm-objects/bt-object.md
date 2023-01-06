@@ -1,6 +1,6 @@
 ---
 title: Bizable Touchpoint Object
-description: This is an overview and clear definition of what is a Bizible Touchpoint.
+description: This is an overview and clear definition of what is a Marketo Measure Touchpoint.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,6 +11,6 @@ thumbnail: 347219.jpeg
 
 # Bizable Touchpoint Object
 
-This is an overview and clear definition of what is a Bizible Touchpoint.
+This is an overview and clear definition of what is a Marketo Measure Touchpoint.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347219/?quality=12&learn=on)

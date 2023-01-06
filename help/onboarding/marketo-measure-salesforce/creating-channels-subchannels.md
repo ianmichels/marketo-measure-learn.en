@@ -1,6 +1,6 @@
 ---
 title: Creating Channels and Subchannels
-description: This lesson covers how to create and maintain channel and subchannel hierarchies and names in Bizible.
+description: This lesson covers how to create and maintain channel and subchannel hierarchies and names in Marketo Measure.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,6 +11,6 @@ thumbnail: 347244.jpeg
 
 # Creating Channels and Subchannels
 
-This lesson covers how to create and maintain channel and subchannel hierarchies and names in Bizible.
+This lesson covers how to create and maintain channel and subchannel hierarchies and names in Marketo Measure.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347244/?quality=12&learn=on)

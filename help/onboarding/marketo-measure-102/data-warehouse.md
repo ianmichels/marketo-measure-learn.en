@@ -1,6 +1,6 @@
 ---
 title: Data Warehouse
-description: This lesson describes Bizible Data Warehouse and provides examples illustrating what data is available and reporting you can do using your BI tool of choice.
+description: This lesson describes Marketo Measure Data Warehouse and provides examples illustrating what data is available and reporting you can do using your BI tool of choice.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,6 +11,6 @@ thumbnail: 347235.jpeg
 
 # Data Warehouse
 
-This lesson describes Bizible Data Warehouse and provides examples illustrating what data is available and reporting you can do using your BI tool of choice.
+This lesson describes Marketo Measure Data Warehouse and provides examples illustrating what data is available and reporting you can do using your BI tool of choice.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347235/?quality=12&learn=on)

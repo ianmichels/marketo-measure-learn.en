@@ -1,6 +1,6 @@
 ---
 title: Stock Salesforce Reports
-description: This lesson covers standard, pre-built Salesforce CRM reports and data objects included with Bizible.
+description: This lesson covers standard, pre-built Salesforce CRM reports and data objects included with Marketo Measure.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,6 +11,6 @@ thumbnail: 347239.jpeg
 
 # Stock Salesforce Reports
 
-This lesson covers standard, pre-built Salesforce CRM reports and data objects included with Bizible.
+This lesson covers standard, pre-built Salesforce CRM reports and data objects included with Marketo Measure.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347239/?quality=12&learn=on)

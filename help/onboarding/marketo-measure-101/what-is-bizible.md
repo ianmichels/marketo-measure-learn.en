@@ -1,6 +1,6 @@
 ---
-title: What is Bizible
-description: This lesson provides a brief introduction to what Bizible does and why.
+title: What is Marketo Measure
+description: This lesson provides a brief introduction to what Marketo Measure does and why.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -9,8 +9,8 @@ kt: 11679
 thumbnail: 347236.jpeg
 ---
 
-# What is Bizible
+# What is Marketo Measure
 
-This lesson provides a brief introduction to what Bizible does and why.
+This lesson provides a brief introduction to what Marketo Measure does and why.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347236/?quality=12&learn=on)

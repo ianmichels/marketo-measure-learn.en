@@ -1,6 +1,6 @@
 ---
-title: Using Bizible as an Email Marketer
-description: This lesson provides a quick demonstration of how Email Marketers might use Bizible in their job role.
+title: Using Marketo Measure as an Email Marketer
+description: This lesson provides a quick demonstration of how Email Marketers might use Marketo Measure in their job role.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -9,8 +9,8 @@ kt: 11677
 thumbnail: 347170.jpeg
 ---
 
-# Using Bizible as an Email Marketer
+# Using Marketo Measure as an Email Marketer
 
-This lesson provides a quick demonstration of how Email Marketers might use Bizible in their job role.
+This lesson provides a quick demonstration of how Email Marketers might use Marketo Measure in their job role.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347170/?quality=12&learn=on)

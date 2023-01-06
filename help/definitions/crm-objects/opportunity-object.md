@@ -1,6 +1,6 @@
 ---
 title: Opportunity Object
-description: This video breaks down the relationship between Bizible and the Opportunity object
+description: This video breaks down the relationship between Marketo Measure and the Opportunity object
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,6 +11,6 @@ thumbnail: 347223.jpeg
 
 # Opportunity Object
 
-This video breaks down the relationship between Bizible and the Opportunity object
+This video breaks down the relationship between Marketo Measure and the Opportunity object
 
 >[!VIDEO](https://video.tv.adobe.com/v/347223/?quality=12&learn=on)

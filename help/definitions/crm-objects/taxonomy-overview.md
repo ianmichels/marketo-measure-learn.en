@@ -1,6 +1,6 @@
 ---
-title: Overview of Bizible Taxonomy
-description: An overview of how Bizible collects and processes data using various inputs to provide attribution data.
+title: Overview of Marketo Measure Taxonomy
+description: An overview of how Marketo Measure collects and processes data using various inputs to provide attribution data.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -9,8 +9,8 @@ kt: 11699
 thumbnail: 347177.jpeg
 ---
 
-# Overview of Bizible Taxonomy
+# Overview of Marketo Measure Taxonomy
 
-An overview of how Bizible collects and processes data using various inputs to provide attribution data.
+An overview of how Marketo Measure collects and processes data using various inputs to provide attribution data.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347177/?quality=12&learn=on)

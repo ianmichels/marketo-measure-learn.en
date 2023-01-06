@@ -1,6 +1,6 @@
 ---
 title: Bizable Attribution Touchpoint Object
-description: This is an overview and clear definition of what is a Bizible Attribution Touchpoint.
+description: This is an overview and clear definition of what is a Marketo Measure Attribution Touchpoint.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,6 +11,6 @@ thumbnail: 347224.jpeg
 
 # Bizable Attribution Touchpoint Object
 
-This is an overview and clear definition of what is a Bizible Attribution Touchpoint.
+This is an overview and clear definition of what is a Marketo Measure Attribution Touchpoint.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347224/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Why Bizible for Demand Gen/Paid Media
-description: This lesson summarizes Bizible's key features and value for Demand Gen and Paid Media teams.
+title: Why Marketo Measure for Demand Gen/Paid Media
+description: This lesson summarizes Marketo Measure's key features and value for Demand Gen and Paid Media teams.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -9,8 +9,8 @@ kt: 11669
 thumbnail: 347169.jpeg
 ---
 
-# Why Bizible for Demand Gen/Paid Media
+# Why Marketo Measure for Demand Gen/Paid Media
 
-This lesson summarizes Bizible's key features and value for Demand Gen and Paid Media teams.
+This lesson summarizes Marketo Measure's key features and value for Demand Gen and Paid Media teams.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347169/?quality=12&learn=on)

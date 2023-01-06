@@ -1,6 +1,6 @@
 ---
 title: CRM Objects
-description: This video breaks down the relationship between standard CRM objects and our Bizible custom objects and fields.
+description: This video breaks down the relationship between standard CRM objects and our Marketo Measure custom objects and fields.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,6 +11,6 @@ thumbnail: 347218.jpeg
 
 # CRM Objects
 
-This video breaks down the relationship between standard CRM objects and our Bizible custom objects and fields.
+This video breaks down the relationship between standard CRM objects and our Marketo Measure custom objects and fields.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347218/?quality=12&learn=on)

@@ -1,5 +1,5 @@
 ---
-title: Why Bizible for CMOs & VPs
+title: Why Marketo Measure for CMOs & VPs
 description: This lesson summarizes Marketo Measure's key features and value for CMOs and other senior marketing leaders.
 role: Leader
 level: Beginner
@@ -9,7 +9,7 @@ kt: 11667
 thumbnail: 347173.jpeg
 ---
 
-# Why Bizible for CMOs & VPs
+# Why Marketo Measure for CMOs & VPs
 
 This lesson summarizes Marketo Measure's key features and value for CMOs and other senior marketing leaders.
 
