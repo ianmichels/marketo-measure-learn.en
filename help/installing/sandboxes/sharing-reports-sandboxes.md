@@ -1,6 +1,6 @@
 ---
 title: Sharing Reports and Dashboards & Hiding Report Types (sandbox instance)
- description: To be added once provide by Product Management.
+description: To be added once provide by Product Management.
 role: User
 level: Beginner
 doc-type: Feature Video
