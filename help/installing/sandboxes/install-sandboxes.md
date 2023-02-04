@@ -1,6 +1,6 @@
 ---
 title: Bizable Installation (sandbox instance)
-description: TBD
+ description: To be added once provide by Product Management.
 role: User
 level: Beginner
 doc-type: Feature Video

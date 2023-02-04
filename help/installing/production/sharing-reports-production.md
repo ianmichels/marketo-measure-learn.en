@@ -1,6 +1,6 @@
 ---
 title: Sharing Reports and Dashboards & Hiding Report Types (production instance)
-description: TBD
+ description: To be added once provide by Product Management.
 role: User
 level: Beginner
 doc-type: Feature Video
