@@ -7,6 +7,18 @@ user-guide-description: This is a description for the user guide that will be di
 # Marketo Measure Tutorials {#tutorials}
 
 + [Marketo Measure Tutorials](overview.md)
+
++ Installing Bizible{#installing}
+  + Bizible Installation for Production{#install-production}
+    + [Bizible Installation - Production](installing/production/install-production.md)
+    + [Modifying Permission Sets](installing/production/modify-permission-sets-production.md)
+    + [Sharing Reports and Dashboards & Hiding Report Types](installing/production/sharing-reports-production.md)
+    + [Creating the Bizible Account, Connecting Ad Platforms](installing/production/creating-bizable-account-production.md)
+  + Bizible Installation for Sandboxes{#install-sandbox}
+    + [Bizible Installation - Sandbox](installing/sandboxes/install-sandboxes.md)
+    + [Modifying Permission Sets](installing/sandboxes/modify-permission-sets-sandboxes.md)
+    + [Sharing Reports and Dashboards & Hiding Report Types](installing/sandboxes/sharing-reports-sandboxes.md)
+    + [Creating the Bizible Account, Connecting Ad Platforms](installing/sandboxes/creating-bizable-account-sandboxes.md)
 + Onboarding{#onboarding}
   + Marketing Role{#marketing-role}
     + [Why Marketo Measure for CMOs and VPs](onboarding/marketing-role/cmo-and-vp-why.md)
@@ -37,12 +49,11 @@ user-guide-description: This is a description for the user guide that will be di
     + [Campaign Object Fields](onboarding/marketo-measure-salesforce/campaign-object-fields.md)
     + [Mapping Offline Channels](onboarding/marketo-measure-salesforce/mapping-offline-channels.md)
     + [Syncing Offline Campaigns](onboarding/marketo-measure-salesforce/syncing-offline-campaigns.md)
-    + [Touchpoint Suppression](onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
   + Fundamentals{#fundamentals}
+    + [Touchpoint Suppression](onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
     + [Activities Attribution](onboarding/fundamentals/activities-attribution.md)
 + Marketo Measure Discover{#marketo-measure-discover}
   + [Introduction to Marketo Measure Discover](marketo-measure-discover/introduction-to-marketo-measure-discover.md)
-  + [Account Based Marketing Board](marketo-measure-discover/account-based-marketing-board.md)
 + Definitions{#definitions}
   + Touchpoints{#touchpoints}
     + [What Is a Touchpoint?](definitions/touchpoints/what-is-a-touchpoint.md)
