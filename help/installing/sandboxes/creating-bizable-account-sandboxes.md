@@ -7,11 +7,10 @@ doc-type: Feature Video
 last-substantial-update: 2023-02-04
 kt: 11829
 thumbnail: 347180.jpeg
-hidefromtoc: true
 ---
 
 # Modifying Permission Sets (sandbox instance)
 
-TBD
+This lesson covers creation of your Bizible account and how to connect ad platforms such as Google, LinkedIn and Facebook in your Bizible development sandbox.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347180/?quality=12&learn=on)

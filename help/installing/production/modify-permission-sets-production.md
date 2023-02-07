@@ -7,11 +7,10 @@ doc-type: Feature Video
 last-substantial-update: 2023-02-03
 kt: 11824
 thumbnail: 347189.jpeg
-hidefromtoc: true
 ---
 
 # Modifying Permission Sets (production instance)
 
-TBD
+This lesson demonstrates how to setup and modify permission sets in Bizible.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347189/?quality=12&learn=on)

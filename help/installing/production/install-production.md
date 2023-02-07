@@ -7,11 +7,10 @@ doc-type: Feature Video
 last-substantial-update: 2023-02-03
 kt: 11823
 thumbnail: 347185.jpeg
-hidefromtoc: true
 ---
 
 # Bizable Installation (production instance)
 
-TBD
+This lesson is an introduction to how to install a production instance of Bizible.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347185/?quality=12&learn=on)

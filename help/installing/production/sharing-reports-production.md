@@ -7,11 +7,10 @@ doc-type: Feature Video
 last-substantial-update: 2023-02-03
 kt: 11825
 thumbnail: 347184.jpeg
-hidefromtoc: true
 ---
 
 # Sharing Reports and Dashboards & Hiding Report Types (production instance)
 
-TBD
+This lesson covers the viewing and sharing of reports and dashboards.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347184/?quality=12&learn=on)
