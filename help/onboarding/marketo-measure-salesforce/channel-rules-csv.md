@@ -7,8 +7,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-01-06
 kt: 11689
 thumbnail: 347237.jpeg
+exl-id: 65a25371-3b3d-4798-aa83-79235491f132
 ---
-
 # Setting up Channel Rules with a CSV File
 
 This lesson describes how to setup Marketo Measure channel rules using a CSV File.

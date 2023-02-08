@@ -7,8 +7,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-01-06
 kt: 11672
 thumbnail: 347176.jpeg
+exl-id: 84e01b4c-a489-4cb8-89f2-70a6dbebdcc8
 ---
-
 # Why Marketo Measure for Content Marketing
 
 This lesson summarizes Marketo Measure's key features and value for Content Marketing teams.

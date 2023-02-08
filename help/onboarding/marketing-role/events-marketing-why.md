@@ -7,8 +7,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-01-06
 kt: 11674
 thumbnail: 347178.jpeg
+exl-id: 713014ed-257c-44f3-a406-bc40e953fe88
 ---
-
 # Why Marketo Measure for Events Marketing
 
 This lesson summarizes Marketo Measure's key features and value for Events Marketing teams.

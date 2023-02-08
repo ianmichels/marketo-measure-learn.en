@@ -7,8 +7,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-01-06
 kt: 11700
 thumbnail: 347218.jpeg
+exl-id: b31a4098-cb01-408c-9b29-28f5c139d3dc
 ---
-
 # CRM Objects
 
 This video breaks down the relationship between standard CRM objects and our Marketo Measure custom objects and fields.

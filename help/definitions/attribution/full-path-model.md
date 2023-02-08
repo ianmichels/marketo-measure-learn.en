@@ -7,8 +7,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-01-06
 kt: 11698
 thumbnail: 347232.jpeg
+exl-id: 21d8489c-d504-4827-81a0-d10150233fcd
 ---
-
 # Full Path Model
 
 This video provides an in-depth explanation of the Full Path Model.

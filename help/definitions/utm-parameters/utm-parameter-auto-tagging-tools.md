@@ -3,8 +3,8 @@ title: UTM Parameter Auto Tagging Tools
 description: Brief discussion on a few UTM generator tools
 kt: 11235
 thumbnail: 347201.jpeg
+exl-id: 68928613-aef1-4560-987f-2093dfef7977
 ---
-
 # UTM Parameter Auto Tagging Tools
 
 Brief discussion on a few UTM generator tools
