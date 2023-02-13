@@ -1,7 +1,7 @@
 ---
 user-guide-title: Marketo Measure Tutorials
-breadcrumb-title: Shorter title (if necessary) that appears only in the breadcrumb.
-user-guide-description: This is a description for the user guide that will be displayed on the landing page.
+breadcrumb-title: Marketo Measure Tutorials
+user-guide-description: Watch tutorials on getting the most out of Adobe Marketo Measure (formerly, Bizible), the industry's leading B2B marketing attribution app.
 ---
 
 # Marketo Measure Tutorials {#tutorials}
@@ -9,86 +9,86 @@ user-guide-description: This is a description for the user guide that will be di
 + [Marketo Measure Tutorials](overview.md)
 
 + Installing Bizible{#installing}
-  + Bizible Installation for Production{#install-production}
-    + [Bizible Installation - Production](installing/production/install-production.md)
-    + [Modifying Permission Sets](installing/production/modify-permission-sets-production.md)
-    + [Sharing Reports and Dashboards & Hiding Report Types](installing/production/sharing-reports-production.md)
-    + [Creating the Bizible Account, Connecting Ad Platforms](installing/production/creating-bizable-account-production.md)
-  + Bizible Installation for Sandboxes{#install-sandbox}
-    + [Bizible Installation - Sandbox](installing/sandboxes/install-sandboxes.md)
-    + [Modifying Permission Sets](installing/sandboxes/modify-permission-sets-sandboxes.md)
-    + [Sharing Reports and Dashboards & Hiding Report Types](installing/sandboxes/sharing-reports-sandboxes.md)
-    + [Creating the Bizible Account, Connecting Ad Platforms](installing/sandboxes/creating-bizable-account-sandboxes.md)
+  + Bizible installation for production{#install-production}
+    + [Bizible installation - production](installing/production/install-production.md)
+    + [Modify permission sets](installing/production/modify-permission-sets-production.md)
+    + [Share reports and dashboards & hide report types](installing/production/sharing-reports-production.md)
+    + [Create the Bizible account, connecting ad platforms](installing/production/creating-bizable-account-production.md)
+  + Bizible installation for sandboxes{#install-sandbox}
+    + [Bizible installation - sandbox](installing/sandboxes/install-sandboxes.md)
+    + [Modify permission sets](installing/sandboxes/modify-permission-sets-sandboxes.md)
+    + [Share reports and dashboards & hide report types](installing/sandboxes/sharing-reports-sandboxes.md)
+    + [Create the Bizible account, connect ad platforms](installing/sandboxes/creating-bizable-account-sandboxes.md)
 + Onboarding{#onboarding}
-  + Marketing Role{#marketing-role}
+  + Marketing role{#marketing-role}
     + [Why Marketo Measure for CMOs and VPs](onboarding/marketing-role/cmo-and-vp-why.md)
     + [Using Marketo Measure as a CMO or VP](onboarding/marketing-role/cmo-and-vp-using.md)
-    + [Why Marketo Measure for Demand Gen/Paid Media](onboarding/marketing-role/demand-gen-why.md)
-    + [Using Marketo Measure as a Demand Gen/Paid Media Marketer](onboarding/marketing-role/demand-gen-using.md)
-    + [Why Marketo Measure for Content Marketing](onboarding/marketing-role/content-marketing-why.md)
-    + [Using Marketo Measure as a Content Marketer](onboarding/marketing-role/content-marketing-using.md)
-    + [Why Marketo Measure for Events Marketing](onboarding/marketing-role/events-marketing-why.md)
-    + [Using Marketo Measure as an Events Marketer](onboarding/marketing-role/events-marketing-using.md)
-    + [Why Marketo Measure for Email Marketing](onboarding/marketing-role/email-marketing-why.md)
-    + [Using Marketo Measure as an Email Marketer](onboarding/marketing-role/email-marketing-using.md)
+    + [Why Marketo Measure for demand gen/paid media](onboarding/marketing-role/demand-gen-why.md)
+    + [Use Marketo Measure as a demand gen/paid media marketer](onboarding/marketing-role/demand-gen-using.md)
+    + [Why Marketo Measure for content marketing](onboarding/marketing-role/content-marketing-why.md)
+    + [Use Marketo Measure as a content marketer](onboarding/marketing-role/content-marketing-using.md)
+    + [Why Marketo Measure for events marketing](onboarding/marketing-role/events-marketing-why.md)
+    + [Use Marketo Measure as an events marketer](onboarding/marketing-role/events-marketing-using.md)
+    + [Why Marketo Measure for email marketing](onboarding/marketing-role/email-marketing-why.md)
+    + [Use Marketo Measure as an email marketer](onboarding/marketing-role/email-marketing-using.md)
   + Marketo Measure 101{#marketo-measure-101}
-    + [What is Attribution](onboarding/marketo-measure-101/what-is-attribution.md)
+    + [What is attribution](onboarding/marketo-measure-101/what-is-attribution.md)
     + [What is Marketo Measure](onboarding/marketo-measure-101/what-is-marketo-measure.md)
-    + [Marketo Measure Data](onboarding/marketo-measure-101/marketo-measure-data.md)
+    + [Marketo Measure data](onboarding/marketo-measure-101/marketo-measure-data.md)
     + [Touchpoints](onboarding/marketo-measure-101/touchpoints.md)
-    + [Attribution Models](onboarding/marketo-measure-101/attribution-models.md)
+    + [Attribution models](onboarding/marketo-measure-101/attribution-models.md)
   + Marketo Measure 102{#marketo-measure-102}
-    + [The Marketo Measure ROI Dashboards](onboarding/marketo-measure-102/roi-dashboards.md)
-    + [Stock Salesforce Reports](onboarding/marketo-measure-102/stock-salesforce-reports.md)
-    + [Additional Salesforce Reports](onboarding/marketo-measure-102/addtional-salesforce-reports.md)
+    + [The Marketo Measure ROI dashboards](onboarding/marketo-measure-102/roi-dashboards.md)
+    + [Stock Salesforce reports](onboarding/marketo-measure-102/stock-salesforce-reports.md)
+    + [Additional Salesforce reports](onboarding/marketo-measure-102/addtional-salesforce-reports.md)
     + [Data Warehouse](onboarding/marketo-measure-102/data-warehouse.md)
   + Marketo Measure and Salesforce{#marketo-measure-salesforce}
-    + [Leads by ID Report](onboarding/marketo-measure-salesforce/leads-by-id-report.md)
-    + [Creating Channels and Subchannels](onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
-    + [Setting up Channel Rules with a CSV File](onboarding/marketo-measure-salesforce/channel-rules-csv.md)
-    + [Campaign Object Fields](onboarding/marketo-measure-salesforce/campaign-object-fields.md)
-    + [Mapping Offline Channels](onboarding/marketo-measure-salesforce/mapping-offline-channels.md)
-    + [Syncing Offline Campaigns](onboarding/marketo-measure-salesforce/syncing-offline-campaigns.md)
+    + [Leads by ID report](onboarding/marketo-measure-salesforce/leads-by-id-report.md)
+    + [Create channels and subchannels](onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
+    + [Set up channel rules with a CSV rile](onboarding/marketo-measure-salesforce/channel-rules-csv.md)
+    + [Campaign object fields](onboarding/marketo-measure-salesforce/campaign-object-fields.md)
+    + [Map offline channels](onboarding/marketo-measure-salesforce/mapping-offline-channels.md)
+    + [Sync offline campaigns](onboarding/marketo-measure-salesforce/syncing-offline-campaigns.md)
   + Fundamentals{#fundamentals}
-    + [Touchpoint Suppression](onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
-    + [Activities Attribution](onboarding/fundamentals/activities-attribution.md)
+    + [Touchpoint suppression](onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
+    + [Activities attribution](onboarding/fundamentals/activities-attribution.md)
 + Marketo Measure Discover{#marketo-measure-discover}
   + [Introduction to Marketo Measure Discover](marketo-measure-discover/introduction-to-marketo-measure-discover.md)
 + Definitions{#definitions}
   + Touchpoints{#touchpoints}
-    + [What Is a Touchpoint?](definitions/touchpoints/what-is-a-touchpoint.md)
-    + [Milestone Touchpoints](definitions/touchpoints/milestone-touchpoints.md)
-    + [Touchpoint Components](definitions/touchpoints/touchpoint-components.md)
-    + [Online & Offline Touchpoints](definitions/touchpoints/online-offline-touchpoints.md)
+    + [What is a touchpoint?](definitions/touchpoints/what-is-a-touchpoint.md)
+    + [Milestone touchpoints](definitions/touchpoints/milestone-touchpoints.md)
+    + [Touchpoint components](definitions/touchpoints/touchpoint-components.md)
+    + [Online & offline touchpoints](definitions/touchpoints/online-offline-touchpoints.md)
   + Attribution{#attribution}
-    + [What is Attribution](definitions/attribution/what-is-attribution.md)
-    + [Attribution Models](definitions/attribution/attribution-models.md)
-    + [First Touch Model](definitions/attribution/first-touch-model.md)
-    + [Lead Creation Model](definitions/attribution/lead-creation-model.md)
-    + [U-shaped Model](definitions/attribution/u-shaped-model.md)
-    + [W-Shaped Model](definitions/attribution/w-shaped-model.md)
-    + [Full Path Model](definitions/attribution/full-path-model.md)
+    + [What is attribution](definitions/attribution/what-is-attribution.md)
+    + [Attribution models](definitions/attribution/attribution-models.md)
+    + [First touch model](definitions/attribution/first-touch-model.md)
+    + [Lead creation model](definitions/attribution/lead-creation-model.md)
+    + [U-shaped model](definitions/attribution/u-shaped-model.md)
+    + [W-shaped model](definitions/attribution/w-shaped-model.md)
+    + [Full path model](definitions/attribution/full-path-model.md)
   + CRM Objects{#crm-objects}
-    + [Overview of Marketo Measure Taxonomy](definitions/crm-objects/taxonomy-overview.md)
-    + [CRM Objects](definitions/crm-objects/crm-objects.md)
+    + [Overview of Marketo Measure taxonomy](definitions/crm-objects/taxonomy-overview.md)
+    + [CRM objects](definitions/crm-objects/crm-objects.md)
     + [Lead Object](definitions/crm-objects/lead-object.md)
-    + [Contact Object](definitions/crm-objects/contact-object.md)
-    + [Opportunity Object](definitions/crm-objects/opportunity-object.md)
-    + [BT Object](definitions/crm-objects/bt-object.md)
-    + [BAT Object](definitions/crm-objects/bat-object.md)
-    + [Marketo Measure Person](definitions/crm-objects/marketo-measure-person.md)
+    + [Contact object](definitions/crm-objects/contact-object.md)
+    + [Opportunity object](definitions/crm-objects/opportunity-object.md)
+    + [BT object](definitions/crm-objects/bt-object.md)
+    + [BAT object](definitions/crm-objects/bat-object.md)
+    + [Marketo Measure person](definitions/crm-objects/marketo-measure-person.md)
   + UTM Parameters{#utm-parameters}
-    + [How Marketo Measure Tagging Works](definitions/utm-parameters/how-marketo-measure-tagging-works.md)
-    + [Connecting Integrated Platforms with Marketo Measure](definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
-    + [Anatomy of a UTM Parameter](definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
-    + [UTM Best Practices](definitions/utm-parameters/utm-best-practices.md)
-    + [UTM Parameter Auto Tagging Tools](definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
-    + [UTM Tagging](definitions/utm-parameters/utm-tagging.md)
+    + [How Marketo Measure tagging works](definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+    + [Connecting integrated platforms with Marketo Measure](definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
+    + [Anatomy of a UTM parameter](definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
+    + [UTM best practices](definitions/utm-parameters/utm-best-practices.md)
+    + [UTM parameter auto tagging tools](definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
+    + [UTM tagging](definitions/utm-parameters/utm-tagging.md)
   + Account-based Marketing{#account-based-marketing}
-    + [ABM Overview](definitions/account-based-marketing/abm-overview.md)
-    + [Accounts By Engagement Score](definitions/account-based-marketing/accounts-by-engagement-score.md)
-    + [Accounts with Leads and Contacts](definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
-    + [Touchpoints Per Account Report](definitions/account-based-marketing/touchpoints-per-account-report.md)
+    + [ABM overview](definitions/account-based-marketing/abm-overview.md)
+    + [Accounts By engagement score](definitions/account-based-marketing/accounts-by-engagement-score.md)
+    + [Accounts with leads and contacts](definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
+    + [Touchpoints per account report](definitions/account-based-marketing/touchpoints-per-account-report.md)
   + Boomerang Stage{#boomerang-stage}
-    + [Introduction to Boomerang Stages](definitions/boomerang-stage/introduction-to-boomerang-stages.md)
-    + [Setting up Boomerang Stages](definitions/boomerang-stage/setting-up-boomerang-stages.md)
+    + [Introduction to boomerang stages](definitions/boomerang-stage/introduction-to-boomerang-stages.md)
+    + [Set up boomerang stages](definitions/boomerang-stage/setting-up-boomerang-stages.md)
