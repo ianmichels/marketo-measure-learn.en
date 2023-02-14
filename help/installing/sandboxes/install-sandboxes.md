@@ -1,5 +1,5 @@
 ---
-title: Bizable Installation (sandbox instance)
+title: Marketo Measure Installation (sandbox instance)
 description: This lesson is an introduction to how to install a development sandbox instance of Marketo Measure.
 role: User
 level: Beginner
