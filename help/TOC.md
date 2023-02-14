@@ -9,16 +9,16 @@ user-guide-description: Watch tutorials on getting the most out of [!DNL Adobe M
 + [Marketo Measure Tutorials](overview.md)
 
 + Installing [!DNL Marketo Measure]{#installing}
-  + [!DNL Marketo Measure] installation for production{#install-production}
+  + Marketo Measure installation for production{#install-production}
     + [Marketo Measure installation - production](installing/production/install-production.md)
     + [Modify permission sets](installing/production/modify-permission-sets-production.md)
     + [Share reports and dashboards & hide report types](installing/production/sharing-reports-production.md)
-    + [Create the [!DNL Marketo Measure] account, connecting ad platforms](installing/production/creating-Marketo Measure-account-production.md)
+    + [Create the Marketo Measure account](installing/production/creating-marketo-measure-account-production.md)
   + [!DNL Marketo Measure] installation for sandboxes{#install-sandbox}
     + [[!DNL Marketo Measure] installation - sandbox](installing/sandboxes/install-sandboxes.md)
     + [Modify permission sets](installing/sandboxes/modify-permission-sets-sandboxes.md)
     + [Share reports and dashboards & hide report types](installing/sandboxes/sharing-reports-sandboxes.md)
-    + [Create the [!DNL Marketo Measure] account, connect ad platforms](installing/sandboxes/creating-Marketo Measure-account-sandboxes.md)
+    + [Create the Marketo Measure account, connect ad platforms](installing/sandboxes/creating-marketo-measure-account-sandboxes.md)
 + Onboarding{#onboarding}
   + Marketing role{#marketing-role}
     + [Why [!DNL Marketo Measure] for CMOs and VPs](onboarding/marketing-role/cmo-and-vp-why.md)
