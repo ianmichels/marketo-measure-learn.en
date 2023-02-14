@@ -1,6 +1,6 @@
 ---
 title: Sharing Reports and Dashboards & Hiding Report Types (sandbox instance)
-description: To be added once provide by Product Management.
+description: This lesson covers the viewing and sharing of reports and dashboards in your Marketo Measure development sandbox.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,6 +11,6 @@ exl-id: 7d940828-5c97-430b-9bf5-6288d711f783
 ---
 # Sharing Reports and Dashboards & Hiding Report Types (sandbox instance)
 
-This lesson covers the viewing and sharing of reports and dashboards in your Bizible development sandbox.
+This lesson covers the viewing and sharing of reports and dashboards in your Marketo Measure development sandbox.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414096/?quality=12&learn=on)

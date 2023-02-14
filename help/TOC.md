@@ -8,17 +8,17 @@ user-guide-description: Watch tutorials on getting the most out of Adobe Marketo
 
 + [Marketo Measure Tutorials](overview.md)
 
-+ Installing Bizible{#installing}
-  + Bizible installation for production{#install-production}
-    + [Bizible installation - production](installing/production/install-production.md)
++ Installing Marketo Measure{#installing}
+  + Marketo Measure installation for production{#install-production}
+    + [Marketo Measure installation - production](installing/production/install-production.md)
     + [Modify permission sets](installing/production/modify-permission-sets-production.md)
     + [Share reports and dashboards & hide report types](installing/production/sharing-reports-production.md)
-    + [Create the Bizible account, connecting ad platforms](installing/production/creating-bizable-account-production.md)
-  + Bizible installation for sandboxes{#install-sandbox}
-    + [Bizible installation - sandbox](installing/sandboxes/install-sandboxes.md)
+    + [Create the Marketo Measure account, connecting ad platforms](installing/production/creating-bizable-account-production.md)
+  + Marketo Measure installation for sandboxes{#install-sandbox}
+    + [Marketo Measure installation - sandbox](installing/sandboxes/install-sandboxes.md)
     + [Modify permission sets](installing/sandboxes/modify-permission-sets-sandboxes.md)
     + [Share reports and dashboards & hide report types](installing/sandboxes/sharing-reports-sandboxes.md)
-    + [Create the Bizible account, connect ad platforms](installing/sandboxes/creating-bizable-account-sandboxes.md)
+    + [Create the Marketo Measure account, connect ad platforms](installing/sandboxes/creating-bizable-account-sandboxes.md)
 + Onboarding{#onboarding}
   + Marketing role{#marketing-role}
     + [Why Marketo Measure for CMOs and VPs](onboarding/marketing-role/cmo-and-vp-why.md)
