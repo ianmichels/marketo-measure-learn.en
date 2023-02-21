@@ -1,7 +1,7 @@
 ---
 cloud: Experience Cloud
 solution: Marketo Measure
-product: Bizible
+product: Marketo
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/marketo-measure-learn.en

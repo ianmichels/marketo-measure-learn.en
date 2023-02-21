@@ -5,7 +5,7 @@ kt: 11241
 thumbnail: 347248.jpeg
 exl-id: 0e2a18f2-042c-4a93-80c8-840afb804ff7
 ---
-# Accounts By Engagement Score
+# [!UICONTROL Accounts by Engagement Score]
 
 A high level overview of the [!UICONTROL Account by Engagement Score].  This tutorial discusses what metrics go into this score and the report associated with it.
 

@@ -1,14 +1,14 @@
 ---
-user-guide-title: [!DNL Marketo Measure] Tutorials
-breadcrumb-title: [!DNL Marketo Measure] Tutorials
-user-guide-description: Watch tutorials on getting the most out of [!DNL Adobe Marketo Measure] (formerly, [!DNL Bizible]), the industry's leading B2B marketing attribution app.
+user-guide-title: "[!DNL Marketo Measure] Tutorials"
+breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
+user-guide-description: Learn how to get the most out of [!DNL Adobe Marketo Measure] (formerly, [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] fundamentals, and definitions.
 ---
 
 # [!DNL Marketo Measure] Tutorials {#tutorials}
 
 + [[!DNL Marketo Measure] Tutorials](overview.md)
-+ !DNL Marketo Measure] Installation {#install}
-  + [!DNL Marketo Measure] installation](installing/install-production.md)
++ [Marketo Measure] Installation {#install}
+  + [Marketo Measure installation](installing/install-production.md)
   + [Modify permission sets](installing/modify-permission-sets-production.md)
   + [Share reports and dashboards & hide report types](installing/sharing-reports-production.md)
   + [Create the [!DNL Marketo Measure] account](installing/creating-marketo-measure-account-production.md)
@@ -80,8 +80,8 @@ user-guide-description: Watch tutorials on getting the most out of [!DNL Adobe M
   + Account-based Marketing{#account-based-marketing}
     + [[!UICONTROL Account Based Marketing] overview](definitions/account-based-marketing/abm-overview.md)
     + [[!UICONTROL Accounts by Engagement Score]](definitions/account-based-marketing/accounts-by-engagement-score.md)
-    + [Accounts with leads and contacts](definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
-    + [Touchpoints per Account report](definitions/account-based-marketing/touchpoints-per-account-report.md)
+    + [[!UICONTROL Accounts with Leads and Contacts] report](definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
+    + [[!UICONTROL Touchpoints per Account] report](definitions/account-based-marketing/touchpoints-per-account-report.md)
   + Boomerang Stage{#boomerang-stage}
     + [Introduction to boomerang stages](definitions/boomerang-stage/introduction-to-boomerang-stages.md)
     + [Set up boomerang stages](definitions/boomerang-stage/setting-up-boomerang-stages.md)
