@@ -1,6 +1,6 @@
 ---
 title: Account Object
-description: This video explains the relationship between Bizable and the account object.
+description: This video explains the relationship between Marketo Measure and the account object.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,6 +11,6 @@ thumbnail: 347222.jpeg
 
 # Account Object
 
-This video explains the relationship between Bizable and the account object.
+This video explains the relationship between Marketo Measure and the account object.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347222/?quality=12&learn=on)

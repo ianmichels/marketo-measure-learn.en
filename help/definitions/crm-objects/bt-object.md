@@ -1,5 +1,5 @@
 ---
-title: Bizable Touchpoint Object
+title: Marketo Measure Touchpoint Object
 description: This is an overview and clear definition of what is a Marketo Measure Touchpoint.
 role: User
 level: Beginner
@@ -9,7 +9,7 @@ kt: 11705
 thumbnail: 347219.jpeg
 exl-id: de4e6690-e7ab-4713-9da3-9dcdc5962eed
 ---
-# Bizable Touchpoint Object
+# Marketo Measure Touchpoint Object
 
 This is an overview and clear definition of what is a Marketo Measure Touchpoint.
 
