@@ -1,5 +1,5 @@
 ---
-title: Touchpoints Per Account Report
+title: Touchpoints Per Account report
 description: This Tutorial discusses how to create a touchpoint report on an account.
 kt: 11240
 thumbnail: 347226.jpeg
