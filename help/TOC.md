@@ -7,7 +7,7 @@ user-guide-description: Learn how to get the most out of [!DNL Adobe Marketo Mea
 # [!DNL Marketo Measure] Tutorials {#tutorials}
 
 + [[!DNL Marketo Measure] Tutorials](overview.md)
-+ !DNL Marketo Measure] Installation {#install}
++ [Marketo Measure] Installation {#install}
   + [Marketo Measure installation](installing/install-production.md)
   + [Modify permission sets](installing/modify-permission-sets-production.md)
   + [Share reports and dashboards & hide report types](installing/sharing-reports-production.md)
