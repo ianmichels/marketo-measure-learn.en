@@ -7,17 +7,11 @@ user-guide-description: Learn how to get the most out of [!DNL Adobe Marketo Mea
 # [!DNL Marketo Measure] Tutorials {#tutorials}
 
 + [[!DNL Marketo Measure] Tutorials](overview.md)
-+ Install [!DNL Marketo Measure]{#installing}
-  + Install [!DNL Marketo Measure] for production{#install-production}
-    + [Bizible installation - production](installing/production/install-production.md)
-    + [Modify permission sets](installing/production/modify-permission-sets-production.md)
-    + [Share reports and dashboards & hide report types](installing/production/sharing-reports-production.md)
-    + [Create the Marketo Measure account](installing/production/creating-marketo-measure-account-production.md)
-  + [!DNL Marketo Measure] installation for sandboxes{#install-sandbox}
-    + [[!DNL Marketo Measure] installation - sandbox](installing/sandboxes/install-sandboxes.md)
-    + [Modify permission sets](installing/sandboxes/modify-permission-sets-sandboxes.md)
-    + [Share reports and dashboards & hide report types](installing/sandboxes/sharing-reports-sandboxes.md)
-    + [Create the Marketo Measure account, connect ad platforms](installing/sandboxes/creating-marketo-measure-account-sandboxes.md)
++ !DNL Marketo Measure] Installation {#install}
+  + [[!DNL Marketo Measure] installation](installing/install-production.md)
+  + [Modify permission sets](installing/modify-permission-sets-production.md)
+  + [Share reports and dashboards & hide report types](installing/sharing-reports-production.md)
+  + [Create the [!DNL Marketo Measure] account](installing/creating-marketo-measure-account-production.md)
 + Onboarding{#onboarding}
   + Marketing role{#marketing-role}
     + [Why [!DNL Marketo Measure] for CMOs and VPs](onboarding/marketing-role/cmo-and-vp-why.md)
