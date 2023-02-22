@@ -1,5 +1,5 @@
 ---
-title: What is Marketo Measure
+title: What is [!DNL Marketo Measure]
 description: This lesson provides a brief introduction to what Marketo Measure does and why.
 role: User
 level: Beginner
