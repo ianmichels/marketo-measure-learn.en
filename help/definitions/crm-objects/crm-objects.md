@@ -1,6 +1,6 @@
 ---
 title: CRM Objects
-description: This video breaks down the relationship between standard CRM objects and our Marketo Measure custom objects and fields.
+description: This video breaks down the relationship between standard CRM objects and our [!DNL Marketo Measure] custom objects and fields.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,6 +11,6 @@ exl-id: b31a4098-cb01-408c-9b29-28f5c139d3dc
 ---
 # CRM Objects
 
-This video breaks down the relationship between standard CRM objects and our Marketo Measure custom objects and fields.
+This video breaks down the relationship between standard CRM objects and our [!DNL Marketo Measure] custom objects and fields.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347218/?quality=12&learn=on)

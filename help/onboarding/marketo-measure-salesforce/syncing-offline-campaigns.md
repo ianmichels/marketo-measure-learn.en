@@ -1,6 +1,6 @@
 ---
 title: Syncing Offline Campaigns
-description: This lesson covers how to sync Salesforce CRM Campaigns with Marketo Measure - individually or in bulk.
+description: This lesson covers how to sync Salesforce CRM Campaigns with [!DNL Marketo Measure] - individually or in bulk.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,6 +11,6 @@ exl-id: d1412325-8e98-435c-a6d4-1d7b77528afc
 ---
 # Syncing Offline Campaigns
 
-This lesson covers how to sync Salesforce CRM Campaigns with Marketo Measure - individually or in bulk.
+This lesson covers how to sync Salesforce CRM Campaigns with [!DNL Marketo Measure] - individually or in bulk.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347250/?quality=12&learn=on)
