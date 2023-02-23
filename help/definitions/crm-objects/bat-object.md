@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Marketo Measure] Attribution Touchpoint Object"
-description: This is an overview and clear definition of what is a [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoint].
+description: Learn about [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoints].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -9,8 +9,8 @@ kt: 11706
 thumbnail: 347224.jpeg
 exl-id: 272bc6aa-71db-4b9c-b93a-d0b1030609c4
 ---
-# [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoint] Object
+# [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoint] object
 
-This is an overview and clear definition of what is a [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoint].
+Learn about [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoints].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347224/?quality=12&learn=on)

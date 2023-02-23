@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Marketo Measure] Installation (production instance)"
-description: To be added once provide by Product Management.
+title: Installation (production instance)
+description: Learn about installing a production instance of [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -9,8 +9,8 @@ kt: 11823
 thumbnail: 347185.jpeg
 exl-id: c868532d-b6f9-4236-b431-d614189a9749
 ---
-# [!DNL Marketo Measure] Installation (production instance)
+# [!DNL Marketo Measure] installation (production instance)
 
-This lesson is an introduction to how to install a production instance of [!DNL Marketo Measure].
+Learn about installing a production instance of [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347185/?quality=12&learn=on)

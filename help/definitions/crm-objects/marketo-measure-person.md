@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Marketo Measure] Person"
-description: This video explains the [!DNL Marketo Measure] person object and how it creates a lookup between the Lead and Contact Objects.
+description: Learn about the [!DNL Marketo Measure] Person object and how it creates a lookup between the Lead and Contact objects.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,6 +11,6 @@ exl-id: 1afac56c-7f88-4331-aab9-c4b8df5c2332
 ---
 # [!DNL Marketo Measure] Person
 
-This video explains the [!DNL Marketo Measure] person object and how it creates a lookup between the Lead and Contact Objects.
+Learn about the [!DNL Marketo Measure] Person object and how it creates a lookup between the Lead and Contact objects.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347230/?quality=12&learn=on)
