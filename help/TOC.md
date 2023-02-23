@@ -1,24 +1,17 @@
 ---
-user-guide-title: [!DNL Marketo Measure] Tutorials
-breadcrumb-title: [!DNL Marketo Measure] Tutorials
-user-guide-description: Watch tutorials on getting the most out of [!DNL Adobe Marketo Measure] (formerly, [!DNL Bizible]), the industry's leading B2B marketing attribution app.
+user-guide-title: "[!DNL Marketo Measure] Tutorials"
+breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
+user-guide-description: Learn how to get the most out of [!DNL Adobe Marketo Measure] (formerly, [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] fundamentals, and definitions.
 ---
 
 # [!DNL Marketo Measure] Tutorials {#tutorials}
 
-+ [Marketo Measure Tutorials](overview.md)
-
-+ Installing [!DNL Marketo Measure]{#installing}
-  + Marketo Measure installation for production{#install-production}
-    + [Marketo Measure installation - production](installing/production/install-production.md)
-    + [Modify permission sets](installing/production/modify-permission-sets-production.md)
-    + [Share reports and dashboards & hide report types](installing/production/sharing-reports-production.md)
-    + [Create the Marketo Measure account](installing/production/creating-marketo-measure-account-production.md)
-  + [!DNL Marketo Measure] installation for sandboxes{#install-sandbox}
-    + [[!DNL Marketo Measure] installation - sandbox](installing/sandboxes/install-sandboxes.md)
-    + [Modify permission sets](installing/sandboxes/modify-permission-sets-sandboxes.md)
-    + [Share reports and dashboards & hide report types](installing/sandboxes/sharing-reports-sandboxes.md)
-    + [Create the Marketo Measure account, connect ad platforms](installing/sandboxes/creating-marketo-measure-account-sandboxes.md)
++ [[!DNL Marketo Measure] Tutorials](overview.md)
++ [Marketo Measure] Installation {#install}
+  + [Marketo Measure installation](installing/install-production.md)
+  + [Modify permission sets](installing/modify-permission-sets-production.md)
+  + [Share and hide reports and dashboards](installing/sharing-reports-production.md)
+  + [Create the [!DNL Marketo Measure] account](installing/creating-marketo-measure-account-production.md)
 + Onboarding{#onboarding}
   + Marketing role{#marketing-role}
     + [Why [!DNL Marketo Measure] for CMOs and VPs](onboarding/marketing-role/cmo-and-vp-why.md)
@@ -85,10 +78,10 @@ user-guide-description: Watch tutorials on getting the most out of [!DNL Adobe M
     + [UTM parameter auto tagging tools](definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
     + [UTM tagging](definitions/utm-parameters/utm-tagging.md)
   + Account-based Marketing{#account-based-marketing}
-    + [ABM overview](definitions/account-based-marketing/abm-overview.md)
-    + [Accounts By engagement score](definitions/account-based-marketing/accounts-by-engagement-score.md)
-    + [Accounts with leads and contacts](definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
-    + [Touchpoints per account report](definitions/account-based-marketing/touchpoints-per-account-report.md)
+    + [[!UICONTROL Account Based Marketing] overview](definitions/account-based-marketing/abm-overview.md)
+    + [[!UICONTROL Accounts by Engagement Score]](definitions/account-based-marketing/accounts-by-engagement-score.md)
+    + [[!UICONTROL Accounts with Leads and Contacts] report](definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
+    + [[!UICONTROL Touchpoints per Account] report](definitions/account-based-marketing/touchpoints-per-account-report.md)
   + Boomerang Stage{#boomerang-stage}
     + [Introduction to boomerang stages](definitions/boomerang-stage/introduction-to-boomerang-stages.md)
     + [Set up boomerang stages](definitions/boomerang-stage/setting-up-boomerang-stages.md)

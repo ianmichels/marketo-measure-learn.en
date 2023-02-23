@@ -1,6 +1,6 @@
 ---
-title: Why Marketo Measure for CMOs & VPs
-description: This lesson summarizes Marketo Measure's key features and value for CMOs and other senior marketing leaders.
+title: Why [!DNL Marketo Measure] for CMOs & VPs
+description: This lesson summarizes [!DNL Marketo Measure]'s key features and value for CMOs and other senior marketing leaders.
 role: Leader
 level: Beginner
 doc-type: Feature Video
@@ -9,8 +9,8 @@ kt: 11667
 thumbnail: 347173.jpeg
 exl-id: beedf32c-6806-4cc3-9f68-332148216f52
 ---
-# Why Marketo Measure for CMOs & VPs
+# Why [!DNL Marketo Measure] for CMOs & VPs
 
-This lesson summarizes Marketo Measure's key features and value for CMOs and other senior marketing leaders.
+This lesson summarizes [!DNL Marketo Measure]'s key features and value for CMOs and other senior marketing leaders.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347173/?quality=12&learn=on)

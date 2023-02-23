@@ -1,6 +1,6 @@
 ---
 title: Setting up Channel Rules with a CSV File
-description: This lesson describes how to setup Marketo Measure channel rules using a CSV File.
+description: This lesson describes how to setup [!DNL Marketo Measure] channel rules using a CSV File.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,6 +11,6 @@ exl-id: 65a25371-3b3d-4798-aa83-79235491f132
 ---
 # Setting up Channel Rules with a CSV File
 
-This lesson describes how to setup Marketo Measure channel rules using a CSV File.
+This lesson describes how to setup [!DNL Marketo Measure] channel rules using a CSV File.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347237/?quality=12&learn=on)

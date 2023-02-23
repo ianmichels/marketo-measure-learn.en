@@ -1,6 +1,6 @@
 ---
-title: Opportunity Object
-description: This video breaks down the relationship between Marketo Measure and the Opportunity object
+title: Opportunity object
+description: Watch a breakdown of the relationship between [!DNL Marketo Measure] and the Opportunity object.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -9,8 +9,8 @@ kt: 11704
 thumbnail: 347223.jpeg
 exl-id: b80e5a14-24d4-4dc3-8ce1-30f5cf1770bd
 ---
-# Opportunity Object
+# Opportunity object
 
-This video breaks down the relationship between Marketo Measure and the Opportunity object
+Watch a breakdown of the relationship between [!DNL Marketo Measure] and the Opportunity object.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347223/?quality=12&learn=on)

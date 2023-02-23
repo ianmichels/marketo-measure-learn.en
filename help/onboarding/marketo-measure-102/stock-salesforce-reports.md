@@ -1,6 +1,6 @@
 ---
 title: Stock Salesforce Reports
-description: This lesson covers standard, pre-built Salesforce CRM reports and data objects included with Marketo Measure.
+description: This lesson covers standard, pre-built Salesforce CRM reports and data objects included with [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,6 +11,6 @@ exl-id: f04bda49-e8b8-4759-8634-6af2034bcab7
 ---
 # Stock Salesforce Reports
 
-This lesson covers standard, pre-built Salesforce CRM reports and data objects included with Marketo Measure.
+This lesson covers standard, pre-built Salesforce CRM reports and data objects included with [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347239/?quality=12&learn=on)

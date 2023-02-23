@@ -1,6 +1,6 @@
 ---
-title: Account Object
-description: This video explains the relationship between Marketo Measure and the account object.
+title: Account object
+description: Learn about the relationship between [!DNL Marketo Measure] and the account object.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -9,8 +9,8 @@ kt: 11703
 thumbnail: 347222.jpeg
 ---
 
-# Account Object
+# Account object
 
-This video explains the relationship between Marketo Measure and the account object.
+Learn about the relationship between [!DNL Marketo Measure] and the account object.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347222/?quality=12&learn=on)
