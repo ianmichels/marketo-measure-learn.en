@@ -3,6 +3,7 @@ cloud: Experience Cloud
 solution: Marketo Measure
 product: Marketo
 type: Tutorial
+doc-type: video
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/marketo-measure-learn.en
 index: yes
