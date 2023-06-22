@@ -5,7 +5,7 @@ role: User
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-01-06
-kt: 11703
+jira: KT-11703
 thumbnail: 347222.jpeg
 ---
 

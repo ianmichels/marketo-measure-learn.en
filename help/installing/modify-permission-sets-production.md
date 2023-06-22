@@ -5,7 +5,7 @@ role: User
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-02-03
-kt: 11824
+jira: KT-11824
 thumbnail: 347189.jpeg
 exl-id: b8ff1093-5a87-48e7-b60e-2668dcbe7717
 ---

@@ -1,7 +1,7 @@
 ---
 title: Anatomy of a UTM parameter
 description: Get an overview of a UTM along with how they are setup. They should be between 60 and 160 characters.
-kt: 11232
+jira: KT-11232
 thumbnail: 347199.jpeg
 exl-id: 8bb6de32-8ad5-4d1c-883d-03979992a363
 ---

@@ -1,7 +1,7 @@
 ---
 title: Introduction to Boomerang Stages
 description: Watch the first lesson in the Boomerang course series. Learn how to setup Boomerang Stages within [!DNL Marketo Measure].
-kt: 11242
+jira: KT-11242
 thumbnail: 347229.jpeg
 exl-id: f8548370-e810-4ce6-8088-1d4b433e2c6e
 ---
