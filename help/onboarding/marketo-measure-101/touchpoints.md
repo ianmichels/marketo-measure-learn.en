@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11681
 thumbnail: 347246.jpeg
 exl-id: 61bdf9e2-1861-46ba-96d2-261eee5e3630
+feature: Touchpoints
 ---
 # Touchpoints
 

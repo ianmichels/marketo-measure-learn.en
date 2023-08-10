@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11675
 thumbnail: 347172.jpeg
 exl-id: 811312b6-02d4-44d3-aeaa-e68e172ca72d
+feature: Fundamentals
 ---
 # Using [!DNL Marketo Measure] as an Events Marketer
 

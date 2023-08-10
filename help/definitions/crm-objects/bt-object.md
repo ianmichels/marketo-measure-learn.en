@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11705
 thumbnail: 347219.jpeg
 exl-id: de4e6690-e7ab-4713-9da3-9dcdc5962eed
+feature: CRM Objects
 ---
 # Marketo Measure Touchpoint Object
 

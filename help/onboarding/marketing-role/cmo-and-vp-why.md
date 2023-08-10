@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11667
 thumbnail: 347173.jpeg
 exl-id: beedf32c-6806-4cc3-9f68-332148216f52
+feature: Fundamentals
 ---
 # Why [!DNL Marketo Measure] for CMOs & VPs
 

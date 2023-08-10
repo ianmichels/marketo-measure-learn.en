@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11698
 thumbnail: 347232.jpeg
 exl-id: 21d8489c-d504-4827-81a0-d10150233fcd
+feature: Attribution
 ---
 # Full Path Model
 

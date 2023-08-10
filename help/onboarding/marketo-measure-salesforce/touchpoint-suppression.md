@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11693
 thumbnail: 347188.jpeg
 exl-id: 4e8a0435-3639-48b2-9f0e-369fec269459
+feature: Touchpoints
 ---
 # Touchpoint Suppression
 

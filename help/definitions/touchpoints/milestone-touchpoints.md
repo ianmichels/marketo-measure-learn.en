@@ -6,6 +6,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11323
 thumbnail: 347215.jpeg
 exl-id: da03138d-bb22-4a21-bfff-73c7e9094000
+feature: Touchpoints
 ---
 # Milestone touchpoints
 

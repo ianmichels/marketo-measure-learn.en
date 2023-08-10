@@ -4,6 +4,7 @@ description: Get an overview of the Account by Engagement Score. Learn what metr
 jira: KT-11241
 thumbnail: 347248.jpeg
 exl-id: 0e2a18f2-042c-4a93-80c8-840afb804ff7
+feature: "Account-based Marketing"
 ---
 # [!UICONTROL Accounts by Engagement Score]
 

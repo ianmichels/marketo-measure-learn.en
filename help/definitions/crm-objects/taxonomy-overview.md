@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11699
 thumbnail: 347177.jpeg
 exl-id: f81e8c52-85e0-4e2a-8f0f-ba0c00fc9251
+feature: CRM Objects
 ---
 # Overview of [!DNL Marketo Measure] taxonomy
 

@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11697
 thumbnail: 347209.jpeg
 exl-id: bfa499bb-a1dc-4d29-b950-8d4a9c58afb0
+feature: Attribution
 ---
 # W-shaped Model
 

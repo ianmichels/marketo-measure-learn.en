@@ -4,6 +4,7 @@ description: Get an overview of a UTM along with how they are setup. They should
 jira: KT-11232
 thumbnail: 347199.jpeg
 exl-id: 8bb6de32-8ad5-4d1c-883d-03979992a363
+feature: UTM Parameters
 ---
 # Anatomy of a UTM parameter
 

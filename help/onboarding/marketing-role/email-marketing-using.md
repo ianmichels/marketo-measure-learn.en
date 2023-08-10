@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11677
 thumbnail: 347170.jpeg
 exl-id: 9487deb4-f0ac-4ec2-a1f1-d3e24260be23
+feature: Fundamentals
 ---
 # Using [!DNL Marketo Measure] as an Email Marketer
 

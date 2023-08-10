@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11701
 thumbnail: 347228.jpeg
 exl-id: bf5e1bf8-f95f-45ec-b436-a3e7ce44c4ac
+feature: CRM Objects
 ---
 # Lead object
 

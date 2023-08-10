@@ -4,6 +4,7 @@ description: Watch a high-level overview of Discover and its various boards. Wit
 jira: KT-11230
 thumbnail: 347206.jpeg
 exl-id: 79595d44-4c68-471e-9df5-aa0c677761b6
+feature: Discover
 ---
 # Introduction to [!DNL Marketo Measure] [!UICONTROL Discover]
 

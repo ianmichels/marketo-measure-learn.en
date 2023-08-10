@@ -8,6 +8,7 @@ last-substantial-update: 2023-02-03
 jira: KT-11826
 thumbnail: 347196.jpeg
 exl-id: 8eb0ab74-e7d5-4ec5-b3b0-01dcf51544f5
+feature: Fundamentals
 ---
 # Create the [!DNL Marketo Measure] account
 

@@ -8,6 +8,7 @@ last-substantial-update: 2023-02-03
 jira: KT-11823
 thumbnail: 347185.jpeg
 exl-id: c868532d-b6f9-4236-b431-d614189a9749
+feature: Installation
 ---
 # [!DNL Marketo Measure] installation (production instance)
 

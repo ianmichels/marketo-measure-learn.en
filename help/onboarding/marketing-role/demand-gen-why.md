@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11669
 thumbnail: 347169.jpeg
 exl-id: bd6b0789-40c7-43c1-abc0-0c2a7b1cde8c
+feature: Fundamentals
 ---
 # Why [!DNL Marketo Measure] for Demand Gen/Paid Media
 
