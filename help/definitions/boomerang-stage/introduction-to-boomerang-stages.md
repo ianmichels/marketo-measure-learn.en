@@ -4,6 +4,7 @@ description: Watch the first lesson in the Boomerang course series. Learn how to
 jira: KT-11242
 thumbnail: 347229.jpeg
 exl-id: f8548370-e810-4ce6-8088-1d4b433e2c6e
+feature: Boomerang
 ---
 # Introduction to [!UICONTROL Boomerang] Stages
 

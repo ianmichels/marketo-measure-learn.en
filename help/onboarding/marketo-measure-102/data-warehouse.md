@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11686
 thumbnail: 347235.jpeg
 exl-id: 1cbecdd0-3858-420c-80c3-9f4d6b813beb
+feature: Data Warehouse
 ---
 # Data Warehouse
 

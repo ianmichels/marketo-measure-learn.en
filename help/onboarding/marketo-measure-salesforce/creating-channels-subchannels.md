@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11688
 thumbnail: 347244.jpeg
 exl-id: 470ed8d1-9a01-4c2a-a229-9479681bcbda
+feature: Salesforce, Channels
 ---
 # Creating Channels and Subchannels
 

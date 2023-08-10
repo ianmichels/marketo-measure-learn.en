@@ -6,6 +6,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11327
 thumbnail: 347221.jpeg
 exl-id: a5790358-80d4-43cc-8337-58a522157578
+feature: Attribution
 ---
 # Attribution models
 

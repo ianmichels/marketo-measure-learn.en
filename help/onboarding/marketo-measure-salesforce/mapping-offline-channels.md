@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11691
 thumbnail: 347249.jpeg
 exl-id: 47891628-bbb2-440c-b843-27dc9f1cca54
+feature: Channels
 ---
 # Mapping Offline Channels
 

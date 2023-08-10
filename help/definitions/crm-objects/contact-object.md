@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11702
 thumbnail: 347231.jpeg
 exl-id: ad5b0b6c-5b5d-45f8-9106-eaa9a16ea54f
+feature: CRM Objects
 ---
 # Contact Object
 

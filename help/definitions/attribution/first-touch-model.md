@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11694
 thumbnail: 347216.jpeg
 exl-id: 3ff35394-64c9-46fc-a6c6-6d7bffd026a2
+feature: Attribution
 ---
 # First Touch Model
 

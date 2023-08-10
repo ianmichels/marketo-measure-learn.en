@@ -8,6 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11673
 thumbnail: 347168.jpeg
 exl-id: 1e676a48-d943-4279-9ccb-0a3d7056e22d
+feature: Fundamentals
 ---
 # Using [!DNL Marketo Measure] as a Content Marketer
 

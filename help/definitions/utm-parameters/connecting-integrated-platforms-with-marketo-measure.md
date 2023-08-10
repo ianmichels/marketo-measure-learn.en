@@ -4,6 +4,7 @@ description: Learn how to connect an ad platform to your [!DNL Marketo Measure] 
 jira: KT-11237
 thumbnail: 347211.jpeg
 exl-id: 6064be37-d27a-4db1-8bd1-4b70d7f99248
+feature: UTM Parameters
 ---
 # Connect integrated platforms with [!DNL Marketo Measure]
 
