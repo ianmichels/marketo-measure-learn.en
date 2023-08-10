@@ -1,6 +1,7 @@
 ---
 cloud: Experience Cloud
 solution: Marketo Measure
+feature-set: Marketo Measure
 product: Marketo
 type: Tutorial
 doc-type: video
