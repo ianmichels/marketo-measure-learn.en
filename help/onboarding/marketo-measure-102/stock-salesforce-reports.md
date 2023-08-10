@@ -8,7 +8,7 @@ last-substantial-update: 2023-01-06
 jira: KT-11684
 thumbnail: 347239.jpeg
 exl-id: f04bda49-e8b8-4759-8634-6af2034bcab7
-feature: "Salesforce, Reporting"
+feature: Salesforce, Reporting
 ---
 # Stock Salesforce Reports
 

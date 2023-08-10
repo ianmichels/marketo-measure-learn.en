@@ -4,7 +4,7 @@ description: Learn about the [!UICONTROL Account and Leads Contacts] report alon
 jira: KT-11239
 thumbnail: 347220.jpeg
 exl-id: dc27ad9a-dd09-4662-8dfd-cb237d66c893
-feature: "Account-based Marketing"
+feature: Account-based Marketing
 ---
 # [!UICONTROL Account and Leads Contacts] report
 

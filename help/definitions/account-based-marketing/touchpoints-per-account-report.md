@@ -4,7 +4,7 @@ description: This Tutorial discusses how to create a touchpoint report on an acc
 jira: KT-11240
 thumbnail: 347226.jpeg
 exl-id: 8bf73987-bbee-4496-a868-6f3a21b5477b
-feature: "Account-based Marketing"
+feature: Account-based Marketing
 ---
 # [!UICONTROL Touchpoints per Account] report
 
