@@ -15,4 +15,4 @@ thumbnail: 3424418.jpeg
 
 An overview of Marketo Measure Suppression, Segmentation and Cost.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424418/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424418/?learn=on){transcript=true}
