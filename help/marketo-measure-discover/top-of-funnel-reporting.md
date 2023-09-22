@@ -1,5 +1,5 @@
 ---
-title: Determine which channel is performing (Pt.2)
+title: Determine which channel is performing (Pt.1)
 description: This report focuses on the top to mid part of the marketing funnel. Once the report is built you will be able to see what channels are generating the most number of opportunities, so you can in turn invest in those marketing channels.
 feature-set: Marketo Measure
 feature: Discover, Reporting
