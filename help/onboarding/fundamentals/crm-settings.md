@@ -1,5 +1,5 @@
 ---
-title: CRM Settings
+title: CRM Settings (Pt.3)
 description: A review of the CRM setting in Marketo Measure.
 feature-set: Marketo Measure
 feature: Fundamentals
