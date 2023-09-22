@@ -14,4 +14,4 @@ feature: CRM Objects
 
 Get an overview of how [!DNL Marketo Measure] collects and processes data using various inputs to provide attribution data.
 
->[!VIDEO](https://video.tv.adobe.com/v/347177/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}

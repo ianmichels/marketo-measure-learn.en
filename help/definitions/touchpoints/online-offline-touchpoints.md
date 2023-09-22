@@ -12,4 +12,4 @@ feature: Touchpoints
 
 Learn about the difference between Online Touchpoints and Offline Touchpoints and how they are created.
 
->[!VIDEO](https://video.tv.adobe.com/v/347212/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347212/?learn=on){transcript=true}

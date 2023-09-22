@@ -10,4 +10,4 @@ feature: Account-based Marketing
 
 A high level overview of the [!UICONTROL Account by Engagement Score].  This tutorial discusses what metrics go into this score and the report associated with it.
 
->[!VIDEO](https://video.tv.adobe.com/v/347248/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}

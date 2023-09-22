@@ -14,4 +14,4 @@ feature: Reporting
 
 This lesson provides an overview of the configurable dashboards available within [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347243/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347243/?learn=on){transcript=true}

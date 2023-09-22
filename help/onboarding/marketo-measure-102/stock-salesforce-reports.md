@@ -14,4 +14,4 @@ feature: Salesforce, Reporting
 
 This lesson covers standard, pre-built Salesforce CRM reports and data objects included with [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347239/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347239/?learn=on){transcript=true}

@@ -14,4 +14,4 @@ feature: Channels
 
 This lesson covers how to sync Salesforce CRM Campaigns with [!DNL Marketo Measure] - individually or in bulk.
 
->[!VIDEO](https://video.tv.adobe.com/v/347250/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347250/?learn=on){transcript=true}

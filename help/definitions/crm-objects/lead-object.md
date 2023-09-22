@@ -14,4 +14,4 @@ feature: CRM Objects
 
 Watch a breakdown of the relationship between the lead object and the [!DNL Marketo Measure] Touchpoint object.
 
->[!VIDEO](https://video.tv.adobe.com/v/347228/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347228/?learn=on){transcript=true}

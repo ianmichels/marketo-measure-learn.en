@@ -12,4 +12,4 @@ feature: Touchpoints
 
 Learn about the major milestones in [!DNL Marketo Measure] and how they are created.
 
->[!VIDEO](https://video.tv.adobe.com/v/347215/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347215/?learn=on){transcript=true}

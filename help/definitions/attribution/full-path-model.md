@@ -14,4 +14,4 @@ feature: Attribution
 
 This video provides an in-depth explanation of the Full Path Model.
 
->[!VIDEO](https://video.tv.adobe.com/v/347232/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347232/?learn=on){transcript=true}

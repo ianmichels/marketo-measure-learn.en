@@ -12,4 +12,4 @@ feature: Touchpoints
 
 Get a breakdown of the various components of touchpoints and how they are defined. This example breaks components of both BTs and BATs.
 
->[!VIDEO](https://video.tv.adobe.com/v/347213/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}

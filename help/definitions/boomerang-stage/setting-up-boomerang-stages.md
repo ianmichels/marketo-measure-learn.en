@@ -10,4 +10,4 @@ feature: Boomerang
 
 Watch the second lesson in the Boomerang course series. Please take the first lesson before watching this one. This discusses setting up [!UICONTROL Boomerang Stages] in [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347225/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347225/?learn=on){transcript=true}

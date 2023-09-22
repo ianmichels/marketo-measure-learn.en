@@ -14,4 +14,4 @@ feature: Attribution
 
 This lesson provides a definition of attribution, an comparison of single-touch and multi-touch attribution methods, and a comparison of attribution between B2C and B2B businesses.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413090/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413090/?learn=on){transcript=true}

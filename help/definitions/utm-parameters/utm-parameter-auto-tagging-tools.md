@@ -10,4 +10,4 @@ feature: UTM Parameters
 
 Watch a brief discussion on a few UTM generator tools.
 
->[!VIDEO](https://video.tv.adobe.com/v/347201/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347201/?learn=on){transcript=true}

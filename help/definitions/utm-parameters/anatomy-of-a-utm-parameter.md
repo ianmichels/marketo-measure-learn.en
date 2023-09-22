@@ -10,4 +10,4 @@ feature: UTM Parameters
 
 Watch an overview of what is a UTM along with how they are setup.
 
->[!VIDEO](https://video.tv.adobe.com/v/347199/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347199/?learn=on){transcript=true}

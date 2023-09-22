@@ -14,4 +14,4 @@ feature: CRM Objects
 
 Learn about a [!DNL Marketo Measure] Touchpoint.
 
->[!VIDEO](https://video.tv.adobe.com/v/347219/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347219/?learn=on){transcript=true}

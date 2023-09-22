@@ -10,4 +10,4 @@ feature: Account-based Marketing
 
 This tutorial discusses the [!UICONTROL Account and Leads Contacts] report along with the information for both and how it connects those objects.
 
->[!VIDEO](https://video.tv.adobe.com/v/347220/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347220/?learn=on){transcript=true}

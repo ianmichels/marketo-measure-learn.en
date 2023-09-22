@@ -10,4 +10,4 @@ feature: UTM Parameters
 
 Watch a tutorial on what is a UTM and how they work with [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347204/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347204/?learn=on){transcript=true}

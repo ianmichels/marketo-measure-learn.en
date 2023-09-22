@@ -14,4 +14,4 @@ feature: CRM Objects
 
 Watch a breakdown of the relationship between standard CRM objects and [!DNL Marketo Measure] custom objects and fields.
 
->[!VIDEO](https://video.tv.adobe.com/v/347218/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347218/?learn=on){transcript=true}

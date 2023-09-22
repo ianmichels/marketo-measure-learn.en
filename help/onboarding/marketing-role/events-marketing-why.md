@@ -14,4 +14,4 @@ feature: Fundamentals
 
 This lesson summarizes [!DNL Marketo Measure]'s key features and value for Events Marketing teams.
 
->[!VIDEO](https://video.tv.adobe.com/v/347178/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347178/?learn=on){transcript=true}

@@ -14,4 +14,4 @@ feature: CRM Objects
 
 Learn about the [!DNL Marketo Measure] Person object and how it creates a lookup between the Lead and Contact objects.
 
->[!VIDEO](https://video.tv.adobe.com/v/347230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347230/?learn=on){transcript=true}

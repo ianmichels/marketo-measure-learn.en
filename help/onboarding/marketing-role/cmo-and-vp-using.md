@@ -14,4 +14,4 @@ feature: Fundamentals
 
 This lesson provides a quick demonstration of how CMOs and other senior marketing leaders might use [!DNL Marketo Measure] in their job role.
 
->[!VIDEO](https://video.tv.adobe.com/v/347190/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347190/?learn=on){transcript=true}

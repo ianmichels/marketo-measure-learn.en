@@ -14,4 +14,4 @@ feature: Touchpoints
 
 This lesson covers how to setup touchpoint suppression rules in Salesforce CRM and common reasons why you would do this.
 
->[!VIDEO](https://video.tv.adobe.com/v/347188/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347188/?learn=on){transcript=true}

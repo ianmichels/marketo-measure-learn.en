@@ -14,4 +14,4 @@ feature: Fundamentals
 
 This lesson summarizes [!DNL Marketo Measure]'s key features and value for Email Marketers.
 
->[!VIDEO](https://video.tv.adobe.com/v/347167/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347167/?learn=on){transcript=true}

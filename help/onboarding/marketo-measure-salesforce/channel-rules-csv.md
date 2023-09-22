@@ -14,4 +14,4 @@ feature: Salesforce, Channels
 
 This lesson describes how to setup [!DNL Marketo Measure] channel rules using a CSV File.
 
->[!VIDEO](https://video.tv.adobe.com/v/347237/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347237/?learn=on){transcript=true}

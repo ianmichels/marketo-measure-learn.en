@@ -14,4 +14,4 @@ feature: Installation
 
 Learn about installing a production instance of [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347185/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347185/?learn=on){transcript=true}

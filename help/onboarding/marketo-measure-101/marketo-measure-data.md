@@ -14,4 +14,4 @@ feature: Reporting
 
 This lesson provides an overview of [!DNL Marketo Measure] data sources which include [!DNL Marketo Measure] JavaScript, API Integrations, UTM Parameters, CRM Data and Manually Entered Data.
 
->[!VIDEO](https://video.tv.adobe.com/v/347234/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347234/?learn=on){transcript=true}

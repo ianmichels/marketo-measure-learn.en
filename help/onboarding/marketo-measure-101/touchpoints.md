@@ -14,4 +14,4 @@ feature: Touchpoints
 
 This lesson describes what touchpoints are in [!DNL Marketo Measure], how they are created, and how they are used for attribution. [!DNL Marketo Measure] data objects including [!DNL Marketo Measure] Touchpoints (BTs) and [!DNL Marketo Measure] Attribution Touchpoints (BATs) are introduced.
 
->[!VIDEO](https://video.tv.adobe.com/v/347246/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347246/?learn=on){transcript=true}

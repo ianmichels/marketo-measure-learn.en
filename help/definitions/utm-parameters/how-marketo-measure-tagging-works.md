@@ -10,4 +10,4 @@ feature: UTM Parameters
 
 Learn how [!DNL Marketo Measure] tagging works and about using an integrated tagging platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/347200/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347200/?learn=on){transcript=true}

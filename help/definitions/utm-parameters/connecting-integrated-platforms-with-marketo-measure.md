@@ -10,4 +10,4 @@ feature: UTM Parameters
 
 Learn how to connect an ad platform to your [!DNL Marketo Measure] Account.
 
->[!VIDEO](https://video.tv.adobe.com/v/347211/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347211/?learn=on){transcript=true}

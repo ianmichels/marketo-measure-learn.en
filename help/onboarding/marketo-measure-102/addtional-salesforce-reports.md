@@ -14,4 +14,4 @@ feature: Salesforce, Reporting
 
 This lesson covers custom attribution reports in Salesforce CRM.
 
->[!VIDEO](https://video.tv.adobe.com/v/347242/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347242/?learn=on){transcript=true}

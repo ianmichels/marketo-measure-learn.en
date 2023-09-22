@@ -10,4 +10,4 @@ feature: Discover
 
 Watch a high-level overview of [!UICONTROL Discover] and its various boards. Within this lesson, learn about common reporting use-cases for several of the Discover dashboards and tiles.
 
->[!VIDEO](https://video.tv.adobe.com/v/347206/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347206/?learn=on){transcript=true}

@@ -14,4 +14,4 @@ feature: Installation
 
 Learn how to modifying Permission Sets in [!DNL Marketo Measure] (production instance).
 
->[!VIDEO](https://video.tv.adobe.com/v/347189/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}

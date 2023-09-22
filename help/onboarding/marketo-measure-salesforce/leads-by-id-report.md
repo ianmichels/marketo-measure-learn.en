@@ -14,4 +14,4 @@ feature: Salesforce
 
 This lesson describes a Lead by ID report in Salesforce CRM
 
->[!VIDEO](https://video.tv.adobe.com/v/347182/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347182/?learn=on){transcript=true}

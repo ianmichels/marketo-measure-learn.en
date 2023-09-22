@@ -14,4 +14,4 @@ feature: CRM Objects
 
 This video breaks down the relationship between the contact object and the [!DNL Marketo Measure] Touchpoint object and the [!DNL Marketo Measure] Attribution Touchpoint object.
 
->[!VIDEO](https://video.tv.adobe.com/v/347231/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347231/?learn=on){transcript=true}

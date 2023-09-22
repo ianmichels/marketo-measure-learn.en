@@ -14,4 +14,4 @@ feature: Attribution
 
 This lesson defines attribution models, explains the different models included with [!DNL Marketo Measure], and when to use each one.  Standard rule-based models, custom models, and AI/ML recommendations are described.
 
->[!VIDEO](https://video.tv.adobe.com/v/347240/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347240/?learn=on){transcript=true}

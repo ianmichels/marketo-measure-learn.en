@@ -14,4 +14,4 @@ feature: Data Warehouse
 
 This lesson describes [!DNL Marketo Measure] Data Warehouse and provides examples illustrating what data is available and reporting you can do using your BI tool of choice.
 
->[!VIDEO](https://video.tv.adobe.com/v/347235/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347235/?learn=on){transcript=true}

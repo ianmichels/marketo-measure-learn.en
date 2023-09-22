@@ -14,4 +14,4 @@ feature: Reporting
 
 This lesson covers the viewing and sharing of reports and dashboards.
 
->[!VIDEO](https://video.tv.adobe.com/v/347184/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347184/?learn=on){transcript=true}

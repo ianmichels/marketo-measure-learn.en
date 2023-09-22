@@ -14,4 +14,4 @@ feature: CRM Objects
 
 Learn about [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoints].
 
->[!VIDEO](https://video.tv.adobe.com/v/347224/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347224/?learn=on){transcript=true}

@@ -14,4 +14,4 @@ feature: Fundamentals
 
 This lesson provides a quick demonstration of how Email Marketers might use [!DNL Marketo Measure] in their job role.
 
->[!VIDEO](https://video.tv.adobe.com/v/347170/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347170/?learn=on){transcript=true}

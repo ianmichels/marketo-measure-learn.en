@@ -14,4 +14,4 @@ feature: Fundamentals
 
 This lesson summarizes [!DNL Marketo Measure]'s key features and value for Demand Gen and Paid Media teams.
 
->[!VIDEO](https://video.tv.adobe.com/v/347169/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347169/?learn=on){transcript=true}

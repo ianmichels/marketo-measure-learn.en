@@ -10,4 +10,4 @@ feature: Attribution
 
 This lesson covers [!UICONTROL Activities Attribution]. This feature allows you to create Touchpoints from the Activities Object in Salesforce via Task or Event records.
 
->[!VIDEO](https://video.tv.adobe.com/v/347192/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347192/?learn=on){transcript=true}

@@ -10,4 +10,4 @@ feature: Account-based Marketing
 
 This tutorial discusses how to create a touchpoint report on an account.
 
->[!VIDEO](https://video.tv.adobe.com/v/347226/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347226/?learn=on){transcript=true}

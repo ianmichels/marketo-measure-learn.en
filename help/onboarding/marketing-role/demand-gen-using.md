@@ -14,4 +14,4 @@ feature: Fundamentals
 
 This lesson provides a quick demonstration of how Demand Gen and Paid Media teams might use [!DNL Marketo Measure] in their job role.
 
->[!VIDEO](https://video.tv.adobe.com/v/347171/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347171/?learn=on){transcript=true}

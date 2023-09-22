@@ -13,4 +13,4 @@ thumbnail: 347222.jpeg
 
 Learn about the relationship between [!DNL Marketo Measure] and the account object.
 
->[!VIDEO](https://video.tv.adobe.com/v/347222/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347222/?learn=on){transcript=true}

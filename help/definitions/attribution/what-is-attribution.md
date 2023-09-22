@@ -12,4 +12,4 @@ feature: Attribution
 
 Learn about attribution and why it is valuable.
 
->[!VIDEO](https://video.tv.adobe.com/v/347233/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347233/?learn=on){transcript=true}

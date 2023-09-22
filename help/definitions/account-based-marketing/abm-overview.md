@@ -10,4 +10,4 @@ feature: Account-based Marketing
 
 This tutorial is a brief overview of ABM including a definition of ABM and what makes up the predictive engagement grade. Learn how to think about the predictive engagement score.
 
->[!VIDEO](https://video.tv.adobe.com/v/347217/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347217/?learn=on){transcript=true}

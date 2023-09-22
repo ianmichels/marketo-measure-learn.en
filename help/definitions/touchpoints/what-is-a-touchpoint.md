@@ -12,4 +12,4 @@ feature: Touchpoints
 
 Learn one of the ways you can create a digital touchpoint.
 
->[!VIDEO](https://video.tv.adobe.com/v/347210/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347210/?learn=on){transcript=true}

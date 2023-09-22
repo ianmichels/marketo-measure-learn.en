@@ -14,4 +14,4 @@ feature: Attribution
 
 This video provides an in-depth explanation of the First Touch Model.
 
->[!VIDEO](https://video.tv.adobe.com/v/347216/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347216/?learn=on){transcript=true}

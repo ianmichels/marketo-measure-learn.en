@@ -14,4 +14,4 @@ feature: Attribution
 
 This video provides an in-depth explanation of the W-shaped Model.
 
->[!VIDEO](https://video.tv.adobe.com/v/347209/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347209/?learn=on){transcript=true}

@@ -14,4 +14,4 @@ feature: Salesforce
 
 This lesson covers Salesforce CRM Campaign object fields that [!DNL Marketo Measure] uses to map campaigns and campaign members to marketing channels. Understanding what these campaign objects do is important as you manage and map your offline channels in [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347238/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347238/?learn=on){transcript=true}

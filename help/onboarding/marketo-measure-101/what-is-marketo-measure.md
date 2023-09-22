@@ -14,4 +14,4 @@ feature: Fundamentals
 
 This lesson provides a brief introduction to what Marketo Measure does and why.
 
->[!VIDEO](https://video.tv.adobe.com/v/347236/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347236/?learn=on){transcript=true}

@@ -10,4 +10,4 @@ feature: UTM Parameters
 
 Learn about [!DNL Marketo Measure] UTM best practices.
 
->[!VIDEO](https://video.tv.adobe.com/v/347203/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347203/?learn=on){transcript=true}

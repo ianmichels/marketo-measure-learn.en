@@ -12,4 +12,4 @@ feature: Attribution
 
 Get an overview of out-of-the-box attribution models in [!DNL Marketo Measure]. Learn about the difference between single-touch models vs. multi-touch models.
 
->[!VIDEO](https://video.tv.adobe.com/v/347221/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347221/?learn=on){transcript=true}

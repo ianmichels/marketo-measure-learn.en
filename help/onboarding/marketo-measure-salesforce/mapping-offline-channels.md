@@ -14,4 +14,4 @@ feature: Channels
 
 This lesson covers the mapping of offline channels to [!DNL Marketo Measure] with the Salesforce Campaign object and the campaign Types field.
 
->[!VIDEO](https://video.tv.adobe.com/v/347249/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347249/?learn=on){transcript=true}

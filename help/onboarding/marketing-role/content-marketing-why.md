@@ -14,4 +14,4 @@ feature: Fundamentals
 
 This lesson summarizes [!DNL Marketo Measure]'s key features and value for Content Marketing teams.
 
->[!VIDEO](https://video.tv.adobe.com/v/347176/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347176/?learn=on){transcript=true}

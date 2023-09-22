@@ -14,4 +14,4 @@ feature: Salesforce, Channels
 
 This lesson covers how to create and maintain channel and subchannel hierarchies and names in [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347244/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347244/?learn=on){transcript=true}

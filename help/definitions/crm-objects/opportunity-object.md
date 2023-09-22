@@ -14,4 +14,4 @@ feature: CRM Objects
 
 Watch a breakdown of the relationship between [!DNL Marketo Measure] and the Opportunity object.
 
->[!VIDEO](https://video.tv.adobe.com/v/347223/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){transcript=true}
