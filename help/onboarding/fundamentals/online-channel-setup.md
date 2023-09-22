@@ -2,7 +2,7 @@
 title: Online Channel Setup
 description: Missing description
 feature-set: Marketo Measure
-feature: Touchpoints, Tracking
+feature: Touchpoints, Tracking, UTM Parameters
 role: User
 level: Beginner
 doc-type: Feature Video
