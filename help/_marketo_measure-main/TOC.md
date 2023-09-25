@@ -14,6 +14,18 @@ auto-video-transcripts: true
   + [Share and hide reports and dashboards](/help/installing/sharing-reports-production.md)
   + [Create the [!DNL Marketo Measure] account](/help/installing/creating-marketo-measure-account-production.md)
 + Onboarding{#onboarding}
+  + Best Practices{#best-practices}
+    + [Review Reporting Settings (Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
+    + [Review Channel and Integration Settings (Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
+    + [CRM Settings (Pt.3)](/help/onboarding/fundamentals/crm-settings.md)
+    + [Settings for Leads, Contacts, and Opportunities](/help/onboarding/fundamentals/leads-contacts-opps-settings.md)
+    + [Online Channel Setup](/help/onboarding/fundamentals/online-channel-setup.md)
+    + [Ads Connection Overview](/help/onboarding/fundamentals/ads-connection-overview.md)
+    + [SFDC Instalaltion Overview](/help/onboarding/fundamentals/sfdc-installation-overview.md)
+    + [Offline Channel Setup](/help/onboarding/fundamentals/offline-channel-setup.md)
+    + [Connection with Marketo Engage](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
+    + [Activity Touchpoints](/help/onboarding/fundamentals/activity-touchpoints.md)
+    + [Suppression, Segmentation, and Cost](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
   + Marketing role{#marketing-role}
     + [Why [!DNL Marketo Measure] for CMOs and VPs](/help/onboarding/marketing-role/cmo-and-vp-why.md)
     + [Using [!DNL Marketo Measure] as a CMO or VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
@@ -48,6 +60,9 @@ auto-video-transcripts: true
     + [Activities attribution](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] Discover{#marketo-measure-discover}
   + [Introduction to [!DNL Marketo Measure] Discover](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+  + [Determine which channel is performing (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
+  + [Determine which channel is performing (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
+  + [Discover Funnel Reporting (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
 + Definitions{#definitions}
   + Touchpoints{#touchpoints}
     + [What is a touchpoint?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
