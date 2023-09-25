@@ -2,6 +2,7 @@
 user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: Learn how to get the most out of [!DNL Adobe Marketo Measure] (formerly, [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] fundamentals, and definitions.
+auto-video-transcripts: true
 ---
 
 # [!DNL Marketo Measure] Tutorials {#tutorials}
