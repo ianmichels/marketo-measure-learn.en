@@ -9,6 +9,7 @@ jira: KT-11669
 thumbnail: 347169.jpeg
 exl-id: bd6b0789-40c7-43c1-abc0-0c2a7b1cde8c
 feature: Fundamentals
+hidefromtoc: Yes
 ---
 # Why [!DNL Marketo Measure] for Demand Gen/Paid Media
 
