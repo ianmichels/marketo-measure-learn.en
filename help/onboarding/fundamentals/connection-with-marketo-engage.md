@@ -4,7 +4,7 @@ description: Overview of connected Marketo Measure with Marketo Engage
 feature-set: Marketo Measure
 feature: Integrations, Touchpoints
 role: User
-level: ??? - select one or more: Beginner, Intermediate, Experienced
+level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-09-22
 jira: KT-14047
