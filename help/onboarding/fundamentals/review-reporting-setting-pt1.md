@@ -1,5 +1,5 @@
 ---
-title: Review Reporting Setting (Pt.1)
+title: Review Reporting Settings (Pt.1)
 description: Overview of the Reporting settings in Marketo Measure.
 feature-set: Marketo Measure
 feature: Fundamentals
