@@ -9,6 +9,7 @@ jira: KT-11672
 thumbnail: 347176.jpeg
 exl-id: 84e01b4c-a489-4cb8-89f2-70a6dbebdcc8
 feature: Fundamentals
+hidefromtoc: Yes
 ---
 # Why [!DNL Marketo Measure] for Content Marketing
 
