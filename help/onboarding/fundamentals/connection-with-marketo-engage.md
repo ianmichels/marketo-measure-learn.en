@@ -2,7 +2,7 @@
 title: Connection with Marketo Engage
 description: Overview of connected Marketo Measure with Marketo Engage
 feature-set: Marketo Measure
-feature: Integrations, Touchpoints
+feature: Integration, Touchpoints
 role: User
 level: Beginner
 doc-type: Feature Video
