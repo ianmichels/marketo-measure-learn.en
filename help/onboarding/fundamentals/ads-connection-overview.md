@@ -2,7 +2,7 @@
 title: Ads Connection Overview
 description: Marketo Measure Ad Connection Configuration.
 feature-set: Marketo Measure
-feature: Integrations, Touchpoints
+feature: Integration, Touchpoints
 role: User
 level: Beginner
 doc-type: Feature Video
