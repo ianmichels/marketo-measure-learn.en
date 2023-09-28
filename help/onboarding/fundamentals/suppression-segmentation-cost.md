@@ -9,8 +9,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22
 jira: KT-14023
 thumbnail: 3424418.jpeg
+exl-id: 067ad902-ff00-47ef-be7b-7b835aeb312c
 ---
-
 # Suppression, Segmentation, and Cost
 
 An overview of Marketo Measure Suppression, Segmentation and Cost.

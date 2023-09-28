@@ -9,8 +9,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22
 jira: KT-14021
 thumbnail: 3424433.jpeg
+exl-id: 38a65b35-81f9-464a-bc63-eef940fb26cd
 ---
-
 # Determine which channel is performing
 
 This report focuses on the top to mid part of the marketing funnel. Once the report is built you will be able to see what channels are generating the most number of opportunities, so you can in turn invest in those marketing channels.

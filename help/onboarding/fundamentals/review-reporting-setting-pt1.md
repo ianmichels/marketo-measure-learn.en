@@ -9,8 +9,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22
 jira: KT-14029
 thumbnail: 3424431.jpeg
+exl-id: 9db3169d-dccb-4eaf-8128-73c53b98a253
 ---
-
 # Review Reporting Setting
 
 Overview of the Reporting settings in Marketo Measure.

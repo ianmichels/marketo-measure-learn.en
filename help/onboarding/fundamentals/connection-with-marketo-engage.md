@@ -9,8 +9,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22
 jira: KT-14047
 thumbnail: 3424426.jpeg
+exl-id: f4873ef4-1032-415a-bddb-08b2f0aaa996
 ---
-
 # Connection with Marketo Engage
 
 Overview of connected Marketo Measure with Marketo Engage
