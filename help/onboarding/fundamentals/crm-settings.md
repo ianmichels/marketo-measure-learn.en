@@ -9,7 +9,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22
 jira: KT-14046
 thumbnail: 3424429.jpeg
-exl-id: 7a4592de-ab20-4efc-b20d-626f18f8f3b4
+exl-id: 5c794877-bf8b-4fd7-8653-da80dc2cc77f
 ---
 # CRM Settings
 

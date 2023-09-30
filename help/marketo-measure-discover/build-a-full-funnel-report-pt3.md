@@ -9,7 +9,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22
 jira: KT-14019
 thumbnail: 3424434.jpeg
-exl-id: 2a68db4b-1242-403e-9498-ceb5154262e0
+exl-id: c7d1b47c-2331-47db-af07-a259cab15fad
 ---
 # Discover Funnel Reporting
 

@@ -9,7 +9,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22
 jira: KT-14049
 thumbnail: 3424422.jpeg
-exl-id: 5f7b9342-f246-4df2-8228-43f8254b78a4
+exl-id: 6b7cf1da-159f-4898-adfd-883ffd7b3ddd
 ---
 # Online Channel Setup
 

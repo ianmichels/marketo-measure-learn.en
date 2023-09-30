@@ -9,7 +9,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22
 jira: KT-14026
 thumbnail: 3424420.jpeg
-exl-id: 9b6fd3b5-5d24-4a94-b817-cc8f35cbed6b
+exl-id: 7e7408a0-8737-469b-ad96-9c137bcc0370
 ---
 # Activity Touchpoint
 

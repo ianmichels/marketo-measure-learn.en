@@ -9,7 +9,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22
 jira: KT-14028
 thumbnail: 3424423.jpeg
-exl-id: b5528227-6615-4667-a356-74671c22219d
+exl-id: bbd2e7ef-b078-401a-8cb9-5cf00e604d79
 ---
 # Ads Connection Overview
 

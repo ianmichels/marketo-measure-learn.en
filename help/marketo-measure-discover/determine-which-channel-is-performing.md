@@ -9,7 +9,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22
 jira: KT-14021
 thumbnail: 3424433.jpeg
-exl-id: 1389e631-497a-43a7-b1d4-fb1d6d596768
+exl-id: fbbd47f7-3321-46cc-ac4f-6749e0f2c312
 ---
 # Determine which channel is performing
 

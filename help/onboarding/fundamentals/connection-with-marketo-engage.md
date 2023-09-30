@@ -9,7 +9,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22
 jira: KT-14047
 thumbnail: 3424426.jpeg
-exl-id: f4873ef4-1032-415a-bddb-08b2f0aaa996
+exl-id: f5bcab7e-16f0-4385-b5e6-14a41768046a
 ---
 # Connection with Marketo Engage
 
