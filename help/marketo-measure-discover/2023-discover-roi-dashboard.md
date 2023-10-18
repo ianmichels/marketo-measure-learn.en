@@ -13,6 +13,6 @@ thumbnail: 3425023.jpeg
 
 # Discover ROI Dashboard - Featured Video
 
-Marketo Measure Discover ROI Dashboard
+The ROI Dashboard provides marketers with a granular view of returns on investment across channels, subchannels, and campaigns. It meticulously breaks down cost and revenue patterns, while also spotlighting metrics like cost-per-lead, deal, and opportunity, ensuring a comprehensive understanding of marketing attribution.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425023/?learn=on){transcript=true}
