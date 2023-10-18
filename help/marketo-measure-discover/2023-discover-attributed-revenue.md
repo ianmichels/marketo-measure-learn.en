@@ -13,6 +13,6 @@ thumbnail: 3425024.jpeg
 
 # Discover Attributed Revenue - Featured Video
 
-Marketo Measure Discover Attributed Revenue Dashboards
+The Attributed Revenue Dashboard offers a focused perspective on the revenue directly linked to your marketing endeavors. Explore how your marketing strategies have been instrumental in sealing deals.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425024/?learn=on){transcript=true}
