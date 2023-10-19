@@ -59,9 +59,6 @@ auto-video-transcripts: true
     + [Touchpoint suppression](/help/onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
     + [Activities attribution](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] Discover{#marketo-measure-discover}
-  + [Overview Dashboard] (/help/marketo-measure-discover/2023-discover-overview-dashboard.md)
-  + [Attributed Revenuw Dasboard] (/help/marketo-measure-discover/2023-discover-attributed-revenue.md)
-  + [ROI Dashboard] (/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
   + [Introduction to [!DNL Marketo Measure] Discover](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
   + [Determine which channel is performing (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
   + [Determine which channel is performing (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
