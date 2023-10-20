@@ -1,6 +1,6 @@
 ---
 title: Discover Funnel Reporting (Pt.3)
-description: This video will walk through a top of funnel report which in turn will show you if, Marketo Measure is tracking, whether you are generating leads, and if your Channel set up has been done correctly.
+description: Get a walkthrough of a top-of-funnel report, which shows you if Marketo Measure is tracking, whether you are generating leads, and if your Channel is correctly set up.
 feature-set: Marketo Measure
 feature: Discover, Reporting
 role: User
@@ -13,6 +13,6 @@ exl-id: c7d1b47c-2331-47db-af07-a259cab15fad
 ---
 # Discover Funnel Reporting
 
-This video will walk through a top of funnel report which in turn will show you if, Marketo Measure is tracking, whether you are generating leads, and if your Channel set up has been done correctly.
+This video provides a walkthrough of a top-of-funnel report, which shows you if Marketo Measure is tracking, whether you are generating leads, and if your Channel is correctly set up.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
