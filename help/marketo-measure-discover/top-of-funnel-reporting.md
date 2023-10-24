@@ -1,18 +1,18 @@
 ---
 title: Determine which channel is performing (Pt.1)
-description: This report focuses on the top to mid part of the marketing funnel. Once the report is built you will be able to see what channels are generating the most number of opportunities, so you can in turn invest in those marketing channels.
+description: This video will walk through a top of funnel report which in turn will show you if, Marketo Measure is tracking, whether you are generating leads, and if your Channel set up has been done correctly.
 feature-set: Marketo Measure
 feature: Discover, Reporting
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-09-22
-jira: KT-14021
-thumbnail: 3424433.jpeg
-exl-id: 156ae9c9-e14d-44af-8f1c-26fcf4f5a969
+last-substantial-update: 2023-10-24
+jira: KT-14019
+thumbnail: 3424434.jpeg
 ---
-# Determine which channel is performing
 
-This report focuses on the top to mid part of the marketing funnel. Once the report is built you will be able to see what channels are generating the most number of opportunities, so you can in turn invest in those marketing channels.
+# Top of funnel reporting
 
->[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on){transcript=true}
+This video will walk through a top of funnel report which in turn will show you if, Marketo Measure is tracking, whether you are generating leads, and if your Channel set up has been done correctly.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
