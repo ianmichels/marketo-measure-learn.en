@@ -1,18 +1,19 @@
 ---
+
 title: Discover Funnel Reporting (Pt.3)
-description: Get a walkthrough of a top-of-funnel report, which shows you if Marketo Measure is tracking, whether you are generating leads, and if your Channel is correctly set up.
+description: In this report we take a look at a full funnel report. This Discover report will track from beginning to end what channels were engaged and then attribute opportunities and/or revenue to those channels.
 feature-set: Marketo Measure
 feature: Discover, Reporting
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-09-22
-jira: KT-14019
-thumbnail: 3424434.jpeg
-exl-id: c7d1b47c-2331-47db-af07-a259cab15fad
+last-substantial-update: 2023-10-24
+jira: KT-14022
+thumbnail: 3424432.jpeg
 ---
-# Discover Funnel Reporting
 
-This video provides a walkthrough of a top-of-funnel report, which shows you if Marketo Measure is tracking, whether you are generating leads, and if your Channel is correctly set up.
+# Build a full funnel report
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+In this report we take a look at the a full funnel report. This Discover report will track from beginning to end what channels were engaged and then attribute opportunities and/or revenue to those channels.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424432/?learn=on){transcript=true}
