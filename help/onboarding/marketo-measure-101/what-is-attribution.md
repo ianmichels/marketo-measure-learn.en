@@ -1,6 +1,7 @@
 ---
 title: What is Attribution
 description: This lesson provides a definition of attribution, an comparison of single-touch and multi-touch attribution methods, and a comparison of attribution between B2C and B2B businesses.
+short-description: This lesson compares single-touch and multi-touch attribution methods and compares attribution between B2C and B2B businesses.
 role: User
 level: Beginner
 doc-type: Feature Video
