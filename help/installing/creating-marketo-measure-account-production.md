@@ -12,6 +12,6 @@ feature: Fundamentals
 ---
 # Create the [!DNL Marketo Measure] account
 
-Learn how to create the [!DNL Marketo Measure] (formerly Bizible) account and to connect ad platforms (production instance).
+Learn how to create the [!DNL Marketo Measure] account and to connect ad platforms (production instance).
 
 >[!VIDEO](https://video.tv.adobe.com/v/347196/?learn=on){transcript=true}
